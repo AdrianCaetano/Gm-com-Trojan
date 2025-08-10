@@ -1,0 +1,4662 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:31:08] 
+[12:31:08] Server Plugins
+[12:31:08] --------------
+[12:31:08]  Loading plugin: bscrashfix
+[12:31:08] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[12:31:08] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[12:31:08]   Loaded.
+[12:31:08]  Loading plugin: crashdetect
+[12:31:08]   CrashDetect v4.15.1 is OK.
+[12:31:08]   Loaded.
+[12:31:08]  Loading plugin: sscanf
+[12:31:08] 
+[12:31:08]  ===============================
+[12:31:08] 
+[12:31:08]       sscanf plugin loaded.     
+[12:31:08] 
+[12:31:08]          Version: 2.13.2
+[12:31:08] 
+[12:31:08]    (c) 2022 Alex "Y_Less" Cole  
+[12:31:08] 
+[12:31:08]  ===============================
+[12:31:08] 
+[12:31:08]   Loaded.
+[12:31:08]  Loading plugin: YSF
+[12:31:08] 
+[12:31:08]  ===============================
+[12:31:08]         YSF - kurta999's version 2.0 loaded
+[12:31:08]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[12:31:08]     Server version: 0.3.7 R2-1 or R2-2
+[12:31:08]     Operating System: Windows
+[12:31:08]     Built on: May 24 2020 at 14:42:02
+[12:31:08]  ===============================
+[12:31:08] 
+[12:31:08]   Loaded.
+[12:31:08]  Loading plugin: streamer
+[12:31:08] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:31:08]   Loaded.
+[12:31:08]  Loading plugin: sampvoice
+[12:31:08] [sv:dbg:network:init] : module initializing...
+[12:31:08] [dbg:raknet:init] : module initializing...
+[12:31:08] [dbg:raknet:init] : module initialized
+[12:31:08] [sv:dbg:network:init] : module initialized
+[12:31:08] [sv:dbg:main:Load] : creating 4 work threads...
+[12:31:08]  -------------------------------------------    
+[12:31:08]    ___                __   __    _              
+[12:31:08]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[12:31:08]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[12:31:08]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[12:31:08]                   |_|                           
+[12:31:08]  -------------------------------------------    
+[12:31:08]            SampVoice by MOR loaded              
+[12:31:08]  -------------------------------------------    
+[12:31:08]   Loaded.
+[12:31:08]  Loading plugin: timerfix
+[12:31:08]   >> TimerFix v1.5 successfully loaded.
+[12:31:08]   Loaded.
+[12:31:08]  Loading plugin: pawnregex
+[12:31:08] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[12:31:08]   Loaded.
+[12:31:08]  Loading plugin: discord-connector
+[12:31:09]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[12:31:09]   Loaded.
+[12:31:09]  Loaded 9 plugins.
+
+[12:31:09] Unable to start server on 191.96.78.45:7777. Port in use?
+[12:31:09] 
+[12:31:09] Filterscripts
+[12:31:09] ---------------
+[12:31:09]   Loading filterscript 'map.amx'...
+[12:31:10] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[12:31:10] [sv:dbg:main:AmxLoad] : net game pointer (value:023E9BB8) received
+[12:31:10] [sv:dbg:network:bind] : voice server running on port 63862
+[12:31:10]   Loaded 1 filterscripts.
+
+[12:31:10] Number of vehicle models: 0
+[12:31:10] [debug] Server crashed due to an unknown error
+[12:31:10] [debug] Native backtrace:
+[12:31:10] [debug] #0 00480c0b in ?? () from samp-server.exe
+[12:31:10] [debug] #1 004912ba in ?? () from samp-server.exe
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:31:11] 
+[12:31:11] Server Plugins
+[12:31:11] --------------
+[12:31:11]  Loading plugin: bscrashfix
+[12:31:11] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[12:31:11] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[12:31:11]   Loaded.
+[12:31:11]  Loading plugin: crashdetect
+[12:31:11]   CrashDetect v4.15.1 is OK.
+[12:31:11]   Loaded.
+[12:31:11]  Loading plugin: sscanf
+[12:31:11] 
+[12:31:11]  ===============================
+[12:31:11] 
+[12:31:11]       sscanf plugin loaded.     
+[12:31:11] 
+[12:31:11]          Version: 2.13.2
+[12:31:11] 
+[12:31:11]    (c) 2022 Alex "Y_Less" Cole  
+[12:31:11] 
+[12:31:11]  ===============================
+[12:31:11] 
+[12:31:11]   Loaded.
+[12:31:11]  Loading plugin: YSF
+[12:31:11] 
+[12:31:11]  ===============================
+[12:31:11]         YSF - kurta999's version 2.0 loaded
+[12:31:11]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[12:31:11]     Server version: 0.3.7 R2-1 or R2-2
+[12:31:11]     Operating System: Windows
+[12:31:11]     Built on: May 24 2020 at 14:42:02
+[12:31:11]  ===============================
+[12:31:11] 
+[12:31:11]   Loaded.
+[12:31:11]  Loading plugin: streamer
+[12:31:11] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:31:11]   Loaded.
+[12:31:11]  Loading plugin: sampvoice
+[12:31:11] [sv:dbg:network:init] : module initializing...
+[12:31:11] [dbg:raknet:init] : module initializing...
+[12:31:11] [dbg:raknet:init] : module initialized
+[12:31:11] [sv:dbg:network:init] : module initialized
+[12:31:11] [sv:dbg:main:Load] : creating 4 work threads...
+[12:31:11]  -------------------------------------------    
+[12:31:11]    ___                __   __    _              
+[12:31:11]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[12:31:11]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[12:31:11]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[12:31:11]                   |_|                           
+[12:31:11]  -------------------------------------------    
+[12:31:11]            SampVoice by MOR loaded              
+[12:31:11]  -------------------------------------------    
+[12:31:11]   Loaded.
+[12:31:11]  Loading plugin: timerfix
+[12:31:11]   >> TimerFix v1.5 successfully loaded.
+[12:31:11]   Loaded.
+[12:31:11]  Loading plugin: pawnregex
+[12:31:11] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[12:31:11]   Loaded.
+[12:31:11]  Loading plugin: discord-connector
+[12:31:12]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[12:31:12]   Loaded.
+[12:31:12]  Loaded 9 plugins.
+
+[12:31:12] Unable to start server on 191.96.78.45:7777. Port in use?
+[12:31:12] 
+[12:31:12] Filterscripts
+[12:31:12] ---------------
+[12:31:12]   Loading filterscript 'map.amx'...
+[12:31:12] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[12:31:12] [sv:dbg:main:AmxLoad] : net game pointer (value:022D9BB8) received
+[12:31:12] [sv:dbg:network:bind] : voice server running on port 63863
+[12:31:12]   Loaded 1 filterscripts.
+
+[12:31:12] Number of vehicle models: 0
+[12:31:12] [debug] Server crashed due to an unknown error
+[12:31:12] [debug] Native backtrace:
+[12:31:12] [debug] #0 00480c0b in ?? () from samp-server.exe
+[12:31:12] [debug] #1 004912ba in ?? () from samp-server.exe
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:33:45] 
+[12:33:45] Server Plugins
+[12:33:45] --------------
+[12:33:45]  Loading plugin: bscrashfix
+[12:33:45] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[12:33:45] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[12:33:45]   Loaded.
+[12:33:45]  Loading plugin: crashdetect
+[12:33:45]   CrashDetect v4.15.1 is OK.
+[12:33:45]   Loaded.
+[12:33:45]  Loading plugin: sscanf
+[12:33:45] 
+[12:33:45]  ===============================
+[12:33:45] 
+[12:33:45]       sscanf plugin loaded.     
+[12:33:45] 
+[12:33:45]          Version: 2.13.2
+[12:33:45] 
+[12:33:45]    (c) 2022 Alex "Y_Less" Cole  
+[12:33:45] 
+[12:33:45]  ===============================
+[12:33:45] 
+[12:33:45]   Loaded.
+[12:33:45]  Loading plugin: YSF
+[12:33:45] 
+[12:33:45]  ===============================
+[12:33:45]         YSF - kurta999's version 2.0 loaded
+[12:33:45]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[12:33:45]     Server version: 0.3.7 R2-1 or R2-2
+[12:33:45]     Operating System: Windows
+[12:33:45]     Built on: May 24 2020 at 14:42:02
+[12:33:45]  ===============================
+[12:33:45] 
+[12:33:45]   Loaded.
+[12:33:45]  Loading plugin: streamer
+[12:33:45] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:33:45]   Loaded.
+[12:33:45]  Loading plugin: sampvoice
+[12:33:45] [sv:dbg:network:init] : module initializing...
+[12:33:45] [dbg:raknet:init] : module initializing...
+[12:33:45] [dbg:raknet:init] : module initialized
+[12:33:45] [sv:dbg:network:init] : module initialized
+[12:33:45] [sv:dbg:main:Load] : creating 4 work threads...
+[12:33:45]  -------------------------------------------    
+[12:33:45]    ___                __   __    _              
+[12:33:45]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[12:33:45]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[12:33:45]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[12:33:45]                   |_|                           
+[12:33:45]  -------------------------------------------    
+[12:33:45]            SampVoice by MOR loaded              
+[12:33:45]  -------------------------------------------    
+[12:33:45]   Loaded.
+[12:33:45]  Loading plugin: timerfix
+[12:33:45]   >> TimerFix v1.5 successfully loaded.
+[12:33:45]   Loaded.
+[12:33:45]  Loading plugin: pawnregex
+[12:33:45] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[12:33:45]   Loaded.
+[12:33:45]  Loading plugin: discord-connector
+[12:33:46]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[12:33:46]   Loaded.
+[12:33:46]  Loaded 9 plugins.
+
+[12:33:46] Unable to start server on 191.96.78.45:7777. Port in use?
+[12:33:46] 
+[12:33:46] Filterscripts
+[12:33:46] ---------------
+[12:33:46]   Loading filterscript 'map.amx'...
+[12:33:46] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[12:33:46] [sv:dbg:main:AmxLoad] : net game pointer (value:02389BE8) received
+[12:33:46] [sv:dbg:network:bind] : voice server running on port 50226
+[12:33:46]   Loaded 1 filterscripts.
+
+[12:33:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:36:48] 
+[12:36:48] Server Plugins
+[12:36:48] --------------
+[12:36:48]  Loading plugin: bscrashfix
+[12:36:48] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[12:36:48] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[12:36:48]   Loaded.
+[12:36:48]  Loading plugin: crashdetect
+[12:36:48]   CrashDetect v4.15.1 is OK.
+[12:36:48]   Loaded.
+[12:36:48]  Loading plugin: sscanf
+[12:36:48] 
+[12:36:48]  ===============================
+[12:36:48] 
+[12:36:48]       sscanf plugin loaded.     
+[12:36:48] 
+[12:36:48]          Version: 2.13.2
+[12:36:48] 
+[12:36:48]    (c) 2022 Alex "Y_Less" Cole  
+[12:36:48] 
+[12:36:48]  ===============================
+[12:36:48] 
+[12:36:48]   Loaded.
+[12:36:48]  Loading plugin: YSF
+[12:36:48] 
+[12:36:48]  ===============================
+[12:36:48]         YSF - kurta999's version 2.0 loaded
+[12:36:48]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[12:36:48]     Server version: 0.3.7 R2-1 or R2-2
+[12:36:48]     Operating System: Windows
+[12:36:48]     Built on: May 24 2020 at 14:42:02
+[12:36:48]  ===============================
+[12:36:48] 
+[12:36:48]   Loaded.
+[12:36:48]  Loading plugin: streamer
+[12:36:48] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:36:48]   Loaded.
+[12:36:48]  Loading plugin: sampvoice
+[12:36:48] [sv:dbg:network:init] : module initializing...
+[12:36:48] [dbg:raknet:init] : module initializing...
+[12:36:48] [dbg:raknet:init] : module initialized
+[12:36:48] [sv:dbg:network:init] : module initialized
+[12:36:48] [sv:dbg:main:Load] : creating 4 work threads...
+[12:36:48]  -------------------------------------------    
+[12:36:48]    ___                __   __    _              
+[12:36:48]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[12:36:48]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[12:36:48]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[12:36:48]                   |_|                           
+[12:36:48]  -------------------------------------------    
+[12:36:48]            SampVoice by MOR loaded              
+[12:36:48]  -------------------------------------------    
+[12:36:48]   Loaded.
+[12:36:48]  Loading plugin: timerfix
+[12:36:48]   >> TimerFix v1.5 successfully loaded.
+[12:36:48]   Loaded.
+[12:36:48]  Loading plugin: pawnregex
+[12:36:48] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[12:36:48]   Loaded.
+[12:36:48]  Loading plugin: discord-connector
+[12:36:50]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[12:36:50]   Loaded.
+[12:36:50]  Loaded 9 plugins.
+
+[12:36:50] Unable to start server on 191.96.78.45:7777. Port in use?
+[12:36:50] 
+[12:36:50] Filterscripts
+[12:36:50] ---------------
+[12:36:50]   Loading filterscript 'map.amx'...
+[12:36:50] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[12:36:50] [sv:dbg:main:AmxLoad] : net game pointer (value:00689BB0) received
+[12:36:50] [sv:dbg:network:bind] : voice server running on port 64686
+[12:36:50]   Loaded 1 filterscripts.
+
+[12:36:50] Number of vehicle models: 0
+[12:36:50] [debug] Server crashed due to an unknown error
+[12:36:50] [debug] Native backtrace:
+[12:36:50] [debug] #0 00480c0b in ?? () from samp-server.exe
+[12:36:50] [debug] #1 004912ba in ?? () from samp-server.exe
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:36:52] 
+[12:36:52] Server Plugins
+[12:36:52] --------------
+[12:36:52]  Loading plugin: bscrashfix
+[12:36:52] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[12:36:52] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[12:36:52]   Loaded.
+[12:36:52]  Loading plugin: crashdetect
+[12:36:52]   CrashDetect v4.15.1 is OK.
+[12:36:52]   Loaded.
+[12:36:52]  Loading plugin: sscanf
+[12:36:52] 
+[12:36:52]  ===============================
+[12:36:52] 
+[12:36:52]       sscanf plugin loaded.     
+[12:36:52] 
+[12:36:52]          Version: 2.13.2
+[12:36:52] 
+[12:36:52]    (c) 2022 Alex "Y_Less" Cole  
+[12:36:52] 
+[12:36:52]  ===============================
+[12:36:52] 
+[12:36:52]   Loaded.
+[12:36:52]  Loading plugin: YSF
+[12:36:52] 
+[12:36:52]  ===============================
+[12:36:52]         YSF - kurta999's version 2.0 loaded
+[12:36:52]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[12:36:52]     Server version: 0.3.7 R2-1 or R2-2
+[12:36:52]     Operating System: Windows
+[12:36:52]     Built on: May 24 2020 at 14:42:02
+[12:36:52]  ===============================
+[12:36:52] 
+[12:36:52]   Loaded.
+[12:36:52]  Loading plugin: streamer
+[12:36:52] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:36:52]   Loaded.
+[12:36:52]  Loading plugin: sampvoice
+[12:36:52] [sv:dbg:network:init] : module initializing...
+[12:36:52] [dbg:raknet:init] : module initializing...
+[12:36:52] [dbg:raknet:init] : module initialized
+[12:36:52] [sv:dbg:network:init] : module initialized
+[12:36:52] [sv:dbg:main:Load] : creating 4 work threads...
+[12:36:52]  -------------------------------------------    
+[12:36:52]    ___                __   __    _              
+[12:36:52]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[12:36:52]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[12:36:52]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[12:36:52]                   |_|                           
+[12:36:52]  -------------------------------------------    
+[12:36:52]            SampVoice by MOR loaded              
+[12:36:52]  -------------------------------------------    
+[12:36:52]   Loaded.
+[12:36:52]  Loading plugin: timerfix
+[12:36:52]   >> TimerFix v1.5 successfully loaded.
+[12:36:52]   Loaded.
+[12:36:52]  Loading plugin: pawnregex
+[12:36:52] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[12:36:52]   Loaded.
+[12:36:52]  Loading plugin: discord-connector
+[12:36:53]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[12:36:53]   Loaded.
+[12:36:53]  Loaded 9 plugins.
+
+[12:36:53] Unable to start server on 191.96.78.45:7777. Port in use?
+[12:36:53] 
+[12:36:53] Filterscripts
+[12:36:53] ---------------
+[12:36:53]   Loading filterscript 'map.amx'...
+[12:36:54] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[12:36:54] [sv:dbg:main:AmxLoad] : net game pointer (value:023F9BB0) received
+[12:36:54] [sv:dbg:network:bind] : voice server running on port 54800
+[12:36:54]   Loaded 1 filterscripts.
+
+[12:36:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:29:18] filterscripts = ""  (string)
+[18:29:18] 
+[18:29:18] Server Plugins
+[18:29:18] --------------
+[18:29:18]  Loading plugin: crashdetect
+[18:29:18]   CrashDetect v4.15.1 is OK.
+[18:29:18]   Loaded.
+[18:29:18]  Loading plugin: sscanf
+[18:29:19] 
+[18:29:19]  ===============================
+[18:29:19] 
+[18:29:19]       sscanf plugin loaded.     
+[18:29:19] 
+[18:29:19]          Version: 2.13.2
+[18:29:19] 
+[18:29:19]    (c) 2022 Alex "Y_Less" Cole  
+[18:29:19] 
+[18:29:19]  ===============================
+[18:29:19] 
+[18:29:19]   Loaded.
+[18:29:19]  Loading plugin: streamer
+[18:29:19] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:29:19]   Loaded.
+[18:29:19]  Loading plugin: sampvoice
+[18:29:19] [sv:dbg:network:init] : module initializing...
+[18:29:19] [dbg:raknet:init] : module initializing...
+[18:29:19] [dbg:raknet:init] : module initialized
+[18:29:19] [sv:dbg:network:init] : module initialized
+[18:29:19] [sv:dbg:main:Load] : creating 4 work threads...
+[18:29:19]  -------------------------------------------    
+[18:29:19]    ___                __   __    _              
+[18:29:19]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[18:29:19]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[18:29:19]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[18:29:19]                   |_|                           
+[18:29:19]  -------------------------------------------    
+[18:29:19]            SampVoice by MOR loaded              
+[18:29:19]  -------------------------------------------    
+[18:29:19]   Loaded.
+[18:29:19]  Loading plugin: timerfix
+[18:29:19]   >> TimerFix v1.5 successfully loaded.
+[18:29:19]   Loaded.
+[18:29:19]  Loading plugin: YSF
+[18:29:20] 
+[18:29:20]  ===============================
+[18:29:20]         YSF - kurta999's version 2.0 loaded
+[18:29:20]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[18:29:20]     Server version: 0.3.7 R2-1 or R2-2
+[18:29:20]     Operating System: Windows
+[18:29:20]     Built on: May 24 2020 at 14:42:02
+[18:29:20]  ===============================
+[18:29:20] 
+[18:29:20]   Loaded.
+[18:29:20]  Loading plugin: pawnregex
+[18:29:20] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[18:29:20]   Loaded.
+[18:29:20]  Loading plugin: discord-connector
+[18:29:22]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[18:29:22]   Loaded.
+[18:29:22]  Loading plugin: bscrashfix
+[18:29:22] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[18:29:22] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[18:29:22]   Loaded.
+[18:29:22]  Loaded 9 plugins.
+
+[18:29:22] 
+[18:29:22] Ban list
+[18:29:22] --------
+[18:29:22]  Loaded: samp.ban
+[18:29:22] 
+[18:29:22] 
+[18:29:22] Filterscripts
+[18:29:22] ---------------
+[18:29:22]   Loaded 0 filterscripts.
+
+[18:29:23] [sv:dbg:main:AmxLoad] : net game pointer (value:023B9BF8) received
+[18:29:23] [sv:dbg:network:bind] : voice server running on port 64741
+[18:29:23]  
+[18:29:23] --------------------------------------
+[18:29:23]  Anticheat Nex-AC carregado!
+[18:29:23]  Anticheat versao: 1.9.54
+[18:29:23]  Autor: Nexius (PT-BR by NicK_)
+[18:29:23] --------------------------------------
+
+[18:29:23] #rank ovos criado com sucesso
+[18:29:36]  _           _      ______       _           _       
+[18:29:36] | |         (_)     | ___ |     | |         | |      
+[18:29:36] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[18:29:36] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[18:29:36] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[18:29:36] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[18:29:36]                 ______                               
+[18:29:36]                |______|                              
+[18:29:36] Number of vehicle models: 0
+[18:30:16] [connection] 127.0.0.1:56948 requests connection cookie.
+[18:30:17] [connection] 127.0.0.1:56948 requests connection cookie.
+[18:30:18] [connection] incoming connection: 127.0.0.1:56948 id: 0
+[18:30:19] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[18:30:19] ================ OnPlayerConnect ================
+[18:30:19] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[18:30:19] =================================================
+[18:30:21] ================ OnPlayerRequestClass ================
+[18:30:21] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[18:30:21] ======================================================
+[18:30:21] Player [Fantasma_] esta usando um APK/PC diferente
+[18:31:33] [part] Fantasma_ has left the server (0:1)
+[18:55:11] [connection] 127.0.0.1:60379 requests connection cookie.
+[18:55:12] [connection] 127.0.0.1:60379 requests connection cookie.
+[18:55:13] [connection] incoming connection: 127.0.0.1:60379 id: 0
+[18:55:14] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[18:55:14] [sv:dbg:network:connect] : player (0) assigned key (957bad6c)
+[18:55:14] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[18:55:14] ================ OnPlayerConnect ================
+[18:55:14] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[18:55:14] =================================================
+[18:55:14] [sv:dbg:network:receive] : player (0) identified (port:56626)
+[18:55:17] ================ OnPlayerRequestClass ================
+[18:55:17] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[18:55:17] ======================================================
+[18:55:17] Player [Fantasma_] esta usando um APK/PC diferente
+[19:00:50]  -------------------------------------------
+[19:00:50]            SampVoice unloading...           
+[19:00:50]  -------------------------------------------
+[19:00:50] [dbg:raknet:free] : module releasing...
+[19:00:50] [sv:dbg:network:connect] : disconnecting player (0) ...
+[19:00:50] [dbg:raknet:free] : module released
+[19:00:50] [sv:dbg:network:free] : module releasing...
+[19:00:50] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:00:51] filterscripts = ""  (string)
+[19:00:51] 
+[19:00:51] Server Plugins
+[19:00:51] --------------
+[19:00:51]  Loading plugin: crashdetect
+[19:00:51]   CrashDetect v4.15.1 is OK.
+[19:00:51]   Loaded.
+[19:00:51]  Loading plugin: sscanf
+[19:00:51] 
+[19:00:51]  ===============================
+[19:00:51] 
+[19:00:51]       sscanf plugin loaded.     
+[19:00:51] 
+[19:00:51]          Version: 2.13.2
+[19:00:51] 
+[19:00:51]    (c) 2022 Alex "Y_Less" Cole  
+[19:00:51] 
+[19:00:51]  ===============================
+[19:00:51] 
+[19:00:51]   Loaded.
+[19:00:51]  Loading plugin: streamer
+[19:00:51] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:00:51]   Loaded.
+[19:00:51]  Loading plugin: sampvoice
+[19:00:51] [sv:dbg:network:init] : module initializing...
+[19:00:51] [dbg:raknet:init] : module initializing...
+[19:00:51] [dbg:raknet:init] : module initialized
+[19:00:51] [sv:dbg:network:init] : module initialized
+[19:00:51] [sv:dbg:main:Load] : creating 4 work threads...
+[19:00:51]  -------------------------------------------    
+[19:00:51]    ___                __   __    _              
+[19:00:51]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[19:00:51]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[19:00:51]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[19:00:51]                   |_|                           
+[19:00:51]  -------------------------------------------    
+[19:00:51]            SampVoice by MOR loaded              
+[19:00:51]  -------------------------------------------    
+[19:00:51]   Loaded.
+[19:00:51]  Loading plugin: timerfix
+[19:00:51]   >> TimerFix v1.5 successfully loaded.
+[19:00:51]   Loaded.
+[19:00:51]  Loading plugin: YSF
+[19:00:51] 
+[19:00:51]  ===============================
+[19:00:51]         YSF - kurta999's version 2.0 loaded
+[19:00:51]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[19:00:51]     Server version: 0.3.7 R2-1 or R2-2
+[19:00:51]     Operating System: Windows
+[19:00:51]     Built on: May 24 2020 at 14:42:02
+[19:00:51]  ===============================
+[19:00:51] 
+[19:00:51]   Loaded.
+[19:00:51]  Loading plugin: pawnregex
+[19:00:51] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[19:00:51]   Loaded.
+[19:00:51]  Loading plugin: discord-connector
+[19:00:53]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[19:00:53]   Loaded.
+[19:00:53]  Loading plugin: bscrashfix
+[19:00:53] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[19:00:53] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[19:00:53]   Loaded.
+[19:00:53]  Loaded 9 plugins.
+
+[19:00:53] 
+[19:00:53] Ban list
+[19:00:53] --------
+[19:00:53]  Loaded: samp.ban
+[19:00:53] 
+[19:00:53] 
+[19:00:53] Filterscripts
+[19:00:53] ---------------
+[19:00:53]   Loaded 0 filterscripts.
+
+[19:00:53] [sv:dbg:main:AmxLoad] : net game pointer (value:02399BF8) received
+[19:00:53] [sv:dbg:network:bind] : voice server running on port 50747
+[19:00:54]  
+[19:00:54] --------------------------------------
+[19:00:54]  Anticheat Nex-AC carregado!
+[19:00:54]  Anticheat versao: 1.9.54
+[19:00:54]  Autor: Nexius (PT-BR by NicK_)
+[19:00:54] --------------------------------------
+
+[19:00:54] #rank ovos criado com sucesso
+[19:00:55]  _           _      ______       _           _       
+[19:00:55] | |         (_)     | ___ |     | |         | |      
+[19:00:55] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[19:00:55] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[19:00:55] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[19:00:55] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[19:00:55]                 ______                               
+[19:00:55]                |______|                              
+[19:00:55] Number of vehicle models: 0
+[19:00:57] [connection] 127.0.0.1:64718 requests connection cookie.
+[19:00:58] [connection] 127.0.0.1:64718 requests connection cookie.
+[19:00:59] [connection] incoming connection: 127.0.0.1:64718 id: 0
+[19:00:59] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[19:00:59] [sv:dbg:network:connect] : player (0) assigned key (2c4573d4)
+[19:00:59] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[19:00:59] ================ OnPlayerConnect ================
+[19:00:59] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[19:00:59] =================================================
+[19:01:00] [sv:dbg:network:receive] : player (0) identified (port:56626)
+[19:01:02] ================ OnPlayerRequestClass ================
+[19:01:02] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[19:01:02] ======================================================
+[19:01:02] Player [Fantasma_] esta usando um APK/PC diferente
+[19:01:48]  -------------------------------------------
+[19:01:48]            SampVoice unloading...           
+[19:01:48]  -------------------------------------------
+[19:01:48] [dbg:raknet:free] : module releasing...
+[19:01:48] [sv:dbg:network:connect] : disconnecting player (0) ...
+[19:01:48] [dbg:raknet:free] : module released
+[19:01:48] [sv:dbg:network:free] : module releasing...
+[19:01:48] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:01:49] filterscripts = ""  (string)
+[19:01:49] 
+[19:01:49] Server Plugins
+[19:01:49] --------------
+[19:01:49]  Loading plugin: crashdetect
+[19:01:49]   CrashDetect v4.15.1 is OK.
+[19:01:49]   Loaded.
+[19:01:49]  Loading plugin: sscanf
+[19:01:49] 
+[19:01:49]  ===============================
+[19:01:49] 
+[19:01:49]       sscanf plugin loaded.     
+[19:01:49] 
+[19:01:49]          Version: 2.13.2
+[19:01:49] 
+[19:01:49]    (c) 2022 Alex "Y_Less" Cole  
+[19:01:49] 
+[19:01:49]  ===============================
+[19:01:49] 
+[19:01:49]   Loaded.
+[19:01:49]  Loading plugin: streamer
+[19:01:49] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:01:49]   Loaded.
+[19:01:49]  Loading plugin: sampvoice
+[19:01:49] [sv:dbg:network:init] : module initializing...
+[19:01:49] [dbg:raknet:init] : module initializing...
+[19:01:49] [dbg:raknet:init] : module initialized
+[19:01:49] [sv:dbg:network:init] : module initialized
+[19:01:49] [sv:dbg:main:Load] : creating 4 work threads...
+[19:01:49]  -------------------------------------------    
+[19:01:49]    ___                __   __    _              
+[19:01:49]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[19:01:49]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[19:01:49]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[19:01:49]                   |_|                           
+[19:01:49]  -------------------------------------------    
+[19:01:49]            SampVoice by MOR loaded              
+[19:01:49]  -------------------------------------------    
+[19:01:49]   Loaded.
+[19:01:49]  Loading plugin: timerfix
+[19:01:49]   >> TimerFix v1.5 successfully loaded.
+[19:01:49]   Loaded.
+[19:01:49]  Loading plugin: YSF
+[19:01:49] 
+[19:01:49]  ===============================
+[19:01:49]         YSF - kurta999's version 2.0 loaded
+[19:01:49]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[19:01:49]     Server version: 0.3.7 R2-1 or R2-2
+[19:01:49]     Operating System: Windows
+[19:01:49]     Built on: May 24 2020 at 14:42:02
+[19:01:49]  ===============================
+[19:01:49] 
+[19:01:49]   Loaded.
+[19:01:49]  Loading plugin: pawnregex
+[19:01:49] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[19:01:49]   Loaded.
+[19:01:49]  Loading plugin: discord-connector
+[19:01:51]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[19:01:51]   Loaded.
+[19:01:51]  Loading plugin: bscrashfix
+[19:01:51] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[19:01:51] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[19:01:51]   Loaded.
+[19:01:51]  Loaded 9 plugins.
+
+[19:01:51] 
+[19:01:51] Ban list
+[19:01:51] --------
+[19:01:51]  Loaded: samp.ban
+[19:01:51] 
+[19:01:51] 
+[19:01:51] Filterscripts
+[19:01:51] ---------------
+[19:01:51]   Loaded 0 filterscripts.
+
+[19:01:51] [sv:dbg:main:AmxLoad] : net game pointer (value:021E9BF8) received
+[19:01:51] [sv:dbg:network:bind] : voice server running on port 50261
+[19:01:51]  
+[19:01:51] --------------------------------------
+[19:01:51]  Anticheat Nex-AC carregado!
+[19:01:51]  Anticheat versao: 1.9.54
+[19:01:51]  Autor: Nexius (PT-BR by NicK_)
+[19:01:51] --------------------------------------
+
+[19:01:52] #rank ovos criado com sucesso
+[19:01:53]  _           _      ______       _           _       
+[19:01:53] | |         (_)     | ___ |     | |         | |      
+[19:01:53] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[19:01:53] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[19:01:53] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[19:01:53] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[19:01:53]                 ______                               
+[19:01:53]                |______|                              
+[19:01:53] Number of vehicle models: 0
+[19:01:55] [connection] 127.0.0.1:59466 requests connection cookie.
+[19:01:56] [connection] 127.0.0.1:59466 requests connection cookie.
+[19:01:57] [connection] incoming connection: 127.0.0.1:59466 id: 0
+[19:01:57] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[19:01:57] [sv:dbg:network:connect] : player (0) assigned key (115a5c5c)
+[19:01:57] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[19:01:57] ================ OnPlayerConnect ================
+[19:01:57] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[19:01:57] =================================================
+[19:01:58] [sv:dbg:network:receive] : player (0) identified (port:56626)
+[19:02:00] ================ OnPlayerRequestClass ================
+[19:02:00] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[19:02:00] ======================================================
+[19:02:00] Player [Fantasma_] esta usando um APK/PC diferente
+[19:03:43] [sv:dbg:network:connect] : disconnecting player (0) ...
+[19:03:43] [part] Fantasma_ has left the server (0:1)
+[19:03:44] [connection] 127.0.0.1:54225 requests connection cookie.
+[19:03:45] [connection] 127.0.0.1:54225 requests connection cookie.
+[19:03:46] [connection] incoming connection: 127.0.0.1:54225 id: 0
+[19:03:46] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[19:03:46] [sv:dbg:network:connect] : player (0) assigned key (a0c5f1e0)
+[19:03:46] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[19:03:46] ================ OnPlayerConnect ================
+[19:03:46] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[19:03:46] =================================================
+[19:03:46] [sv:dbg:network:receive] : player (0) identified (port:56626)
+[19:03:49] ================ OnPlayerRequestClass ================
+[19:03:49] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[19:03:49] ======================================================
+[19:03:49] Player [Fantasma_] esta usando um APK/PC diferente
+[19:04:00] [sv:dbg:network:connect] : disconnecting player (0) ...
+[19:04:00] [part] Fantasma_ has left the server (0:1)
+[19:04:39]  -------------------------------------------
+[19:04:39]            SampVoice unloading...           
+[19:04:39]  -------------------------------------------
+[19:04:39] [dbg:raknet:free] : module releasing...
+[19:04:39] [dbg:raknet:free] : module released
+[19:04:39] [sv:dbg:network:free] : module releasing...
+[19:04:39] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:47:19] filterscripts = ""  (string)
+[19:47:19] 
+[19:47:19] Server Plugins
+[19:47:19] --------------
+[19:47:19]  Loading plugin: crashdetect
+[19:47:19]   CrashDetect v4.15.1 is OK.
+[19:47:19]   Loaded.
+[19:47:19]  Loading plugin: sscanf
+[19:47:19] 
+[19:47:19]  ===============================
+[19:47:19] 
+[19:47:19]       sscanf plugin loaded.     
+[19:47:19] 
+[19:47:19]          Version: 2.13.2
+[19:47:19] 
+[19:47:19]    (c) 2022 Alex "Y_Less" Cole  
+[19:47:19] 
+[19:47:19]  ===============================
+[19:47:19] 
+[19:47:19]   Loaded.
+[19:47:19]  Loading plugin: streamer
+[19:47:19] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:47:19]   Loaded.
+[19:47:19]  Loading plugin: sampvoice
+[19:47:19] [sv:dbg:network:init] : module initializing...
+[19:47:19] [dbg:raknet:init] : module initializing...
+[19:47:19] [dbg:raknet:init] : module initialized
+[19:47:19] [sv:dbg:network:init] : module initialized
+[19:47:19] [sv:dbg:main:Load] : creating 4 work threads...
+[19:47:19]  -------------------------------------------    
+[19:47:19]    ___                __   __    _              
+[19:47:19]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[19:47:19]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[19:47:19]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[19:47:19]                   |_|                           
+[19:47:19]  -------------------------------------------    
+[19:47:19]            SampVoice by MOR loaded              
+[19:47:19]  -------------------------------------------    
+[19:47:19]   Loaded.
+[19:47:19]  Loading plugin: timerfix
+[19:47:19]   >> TimerFix v1.5 successfully loaded.
+[19:47:19]   Loaded.
+[19:47:19]  Loading plugin: YSF
+[19:47:19] 
+[19:47:19]  ===============================
+[19:47:19]         YSF - kurta999's version 2.0 loaded
+[19:47:19]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[19:47:19]     Server version: 0.3.7 R2-1 or R2-2
+[19:47:19]     Operating System: Windows
+[19:47:19]     Built on: May 24 2020 at 14:42:02
+[19:47:19]  ===============================
+[19:47:19] 
+[19:47:19]   Loaded.
+[19:47:19]  Loading plugin: pawnregex
+[19:47:19] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[19:47:19]   Loaded.
+[19:47:19]  Loading plugin: discord-connector
+[19:47:20]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[19:47:20]   Loaded.
+[19:47:20]  Loading plugin: bscrashfix
+[19:47:20] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[19:47:20] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[19:47:20]   Loaded.
+[19:47:20]  Loaded 9 plugins.
+
+[19:47:20] 
+[19:47:20] Ban list
+[19:47:20] --------
+[19:47:20]  Loaded: samp.ban
+[19:47:21] 
+[19:47:21] 
+[19:47:21] Filterscripts
+[19:47:21] ---------------
+[19:47:21]   Loaded 0 filterscripts.
+
+[19:47:21] [sv:dbg:main:AmxLoad] : net game pointer (value:022C9BF8) received
+[19:47:21] [sv:dbg:network:bind] : voice server running on port 65219
+[19:47:21]  
+[19:47:21] --------------------------------------
+[19:47:21]  Anticheat Nex-AC carregado!
+[19:47:21]  Anticheat versao: 1.9.54
+[19:47:21]  Autor: Nexius (PT-BR by NicK_)
+[19:47:21] --------------------------------------
+
+[19:47:21] #rank ovos criado com sucesso
+[19:47:22]  _           _      ______       _           _       
+[19:47:22] | |         (_)     | ___ |     | |         | |      
+[19:47:22] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[19:47:22] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[19:47:22] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[19:47:22] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[19:47:22]                 ______                               
+[19:47:22]                |______|                              
+[19:47:22] Number of vehicle models: 0
+[19:52:05]  -------------------------------------------
+[19:52:05]            SampVoice unloading...           
+[19:52:05]  -------------------------------------------
+[19:52:05] [dbg:raknet:free] : module releasing...
+[19:52:05] [dbg:raknet:free] : module released
+[19:52:05] [sv:dbg:network:free] : module releasing...
+[19:52:05] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:57:34] filterscripts = ""  (string)
+[21:57:34] 
+[21:57:34] Server Plugins
+[21:57:34] --------------
+[21:57:34]  Loading plugin: crashdetect
+[21:57:34]   CrashDetect v4.15.1 is OK.
+[21:57:34]   Loaded.
+[21:57:34]  Loading plugin: sscanf
+[21:57:34] 
+[21:57:34]  ===============================
+[21:57:34] 
+[21:57:34]       sscanf plugin loaded.     
+[21:57:34] 
+[21:57:34]          Version: 2.13.2
+[21:57:34] 
+[21:57:34]    (c) 2022 Alex "Y_Less" Cole  
+[21:57:34] 
+[21:57:34]  ===============================
+[21:57:34] 
+[21:57:34]   Loaded.
+[21:57:34]  Loading plugin: streamer
+[21:57:34] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[21:57:34]   Loaded.
+[21:57:34]  Loading plugin: sampvoice
+[21:57:34] [sv:dbg:network:init] : module initializing...
+[21:57:34] [dbg:raknet:init] : module initializing...
+[21:57:34] [dbg:raknet:init] : module initialized
+[21:57:34] [sv:dbg:network:init] : module initialized
+[21:57:34] [sv:dbg:main:Load] : creating 4 work threads...
+[21:57:34]  -------------------------------------------    
+[21:57:34]    ___                __   __    _              
+[21:57:34]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[21:57:34]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[21:57:34]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[21:57:35]                   |_|                           
+[21:57:35]  -------------------------------------------    
+[21:57:35]            SampVoice by MOR loaded              
+[21:57:35]  -------------------------------------------    
+[21:57:35]   Loaded.
+[21:57:35]  Loading plugin: timerfix
+[21:57:35]   >> TimerFix v1.5 successfully loaded.
+[21:57:35]   Loaded.
+[21:57:35]  Loading plugin: YSF
+[21:57:35] 
+[21:57:35]  ===============================
+[21:57:35]         YSF - kurta999's version 2.0 loaded
+[21:57:35]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[21:57:35]     Server version: 0.3.7 R2-1 or R2-2
+[21:57:35]     Operating System: Windows
+[21:57:35]     Built on: May 24 2020 at 14:42:02
+[21:57:35]  ===============================
+[21:57:35] 
+[21:57:35]   Loaded.
+[21:57:35]  Loading plugin: pawnregex
+[21:57:35] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[21:57:35]   Loaded.
+[21:57:35]  Loading plugin: discord-connector
+[21:57:48]  -------------------------------------------
+[21:57:49]            SampVoice unloading...           
+[21:57:49]  -------------------------------------------
+[21:57:49] [dbg:raknet:free] : module releasing...
+[21:57:49] [dbg:raknet:free] : module released
+[21:57:49] [sv:dbg:network:free] : module releasing...
+[21:57:49] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:57:50] filterscripts = ""  (string)
+[21:57:50] 
+[21:57:50] Server Plugins
+[21:57:50] --------------
+[21:57:50]  Loading plugin: crashdetect
+[21:57:50]   CrashDetect v4.15.1 is OK.
+[21:57:50]   Loaded.
+[21:57:50]  Loading plugin: sscanf
+[21:57:50] 
+[21:57:50]  ===============================
+[21:57:50] 
+[21:57:50]       sscanf plugin loaded.     
+[21:57:50] 
+[21:57:50]          Version: 2.13.2
+[21:57:50] 
+[21:57:50]    (c) 2022 Alex "Y_Less" Cole  
+[21:57:50] 
+[21:57:50]  ===============================
+[21:57:50] 
+[21:57:50]   Loaded.
+[21:57:50]  Loading plugin: streamer
+[21:57:50] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[21:57:50]   Loaded.
+[21:57:50]  Loading plugin: sampvoice
+[21:57:50] [sv:dbg:network:init] : module initializing...
+[21:57:50] [dbg:raknet:init] : module initializing...
+[21:57:50] [dbg:raknet:init] : module initialized
+[21:57:50] [sv:dbg:network:init] : module initialized
+[21:57:50] [sv:dbg:main:Load] : creating 4 work threads...
+[21:57:50]  -------------------------------------------    
+[21:57:50]    ___                __   __    _              
+[21:57:50]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[21:57:50]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[21:57:50]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[21:57:50]                   |_|                           
+[21:57:50]  -------------------------------------------    
+[21:57:50]            SampVoice by MOR loaded              
+[21:57:50]  -------------------------------------------    
+[21:57:50]   Loaded.
+[21:57:50]  Loading plugin: timerfix
+[21:57:50]   >> TimerFix v1.5 successfully loaded.
+[21:57:50]   Loaded.
+[21:57:50]  Loading plugin: YSF
+[21:57:50] 
+[21:57:50]  ===============================
+[21:57:50]         YSF - kurta999's version 2.0 loaded
+[21:57:50]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[21:57:50]     Server version: 0.3.7 R2-1 or R2-2
+[21:57:50]     Operating System: Windows
+[21:57:50]     Built on: May 24 2020 at 14:42:02
+[21:57:50]  ===============================
+[21:57:50] 
+[21:57:50]   Loaded.
+[21:57:50]  Loading plugin: pawnregex
+[21:57:50] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[21:57:50]   Loaded.
+[21:57:50]  Loading plugin: discord-connector
+[21:58:25]  >> plugin.dc-connector: timeout while initializing data.
+[21:58:25]                          plugin will proceed to retry connecting in the background.
+[21:58:25]   Loaded.
+[21:58:25]  Loading plugin: bscrashfix
+[21:58:25] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[21:58:25] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[21:58:25]   Loaded.
+[21:58:25]  Loaded 9 plugins.
+
+[21:58:25] 
+[21:58:25] Ban list
+[21:58:25] --------
+[21:58:25]  Loaded: samp.ban
+[21:58:25] 
+[21:58:25] 
+[21:58:25] Filterscripts
+[21:58:25] ---------------
+[21:58:25]   Loaded 0 filterscripts.
+
+[21:58:26] [sv:dbg:main:AmxLoad] : net game pointer (value:02429BF8) received
+[21:58:26] [sv:dbg:network:bind] : voice server running on port 57410
+[21:58:26]  
+[21:58:26] --------------------------------------
+[21:58:26]  Anticheat Nex-AC carregado!
+[21:58:26]  Anticheat versao: 1.9.54
+[21:58:26]  Autor: Nexius (PT-BR by NicK_)
+[21:58:26] --------------------------------------
+
+[21:58:26] #rank ovos criado com sucesso
+[21:58:28]  _           _      ______       _           _       
+[21:58:28] | |         (_)     | ___ |     | |         | |      
+[21:58:28] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[21:58:28] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[21:58:28] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[21:58:28] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[21:58:28]                 ______                               
+[21:58:28]                |______|                              
+[21:58:28] Number of vehicle models: 0
+[21:59:51] [connection] 127.0.0.1:63468 requests connection cookie.
+[21:59:52] [connection] 127.0.0.1:63468 requests connection cookie.
+[21:59:53] [connection] incoming connection: 127.0.0.1:63468 id: 0
+[21:59:54] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[21:59:54] [sv:dbg:network:connect] : player (0) assigned key (842ac54d)
+[21:59:54] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[21:59:54] ================ OnPlayerConnect ================
+[21:59:54] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[21:59:54] =================================================
+[21:59:54] [sv:dbg:network:receive] : player (0) identified (port:60215)
+[21:59:57] ================ OnPlayerRequestClass ================
+[21:59:57] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[21:59:57] ======================================================
+[21:59:57] Player [Fantasma_] esta usando um APK/PC diferente
+[22:00:09] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:00:09] [part] Fantasma_ has left the server (0:1)
+[22:00:09] [connection] 127.0.0.1:51328 requests connection cookie.
+[22:00:10] [connection] 127.0.0.1:51328 requests connection cookie.
+[22:00:11] [connection] incoming connection: 127.0.0.1:51328 id: 0
+[22:00:17] [connection] 127.0.0.1:53659 requests connection cookie.
+[22:00:18] [connection] 127.0.0.1:53659 requests connection cookie.
+[22:00:19] [connection] incoming connection: 127.0.0.1:53659 id: 0
+[22:00:19] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[22:00:19] [sv:dbg:network:connect] : player (0) assigned key (5fb72558)
+[22:00:19] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[22:00:19] ================ OnPlayerConnect ================
+[22:00:19] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[22:00:19] =================================================
+[22:00:20] [sv:dbg:network:receive] : player (0) identified (port:60215)
+[22:00:22] ================ OnPlayerRequestClass ================
+[22:00:22] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[22:00:22] ======================================================
+[22:00:22] Player [Fantasma_] esta usando um APK/PC diferente
+[22:00:26] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:00:26] [part] Fantasma_ has left the server (0:1)
+[22:00:39] [connection] 127.0.0.1:52472 requests connection cookie.
+[22:00:40] [connection] 127.0.0.1:52472 requests connection cookie.
+[22:00:41] [connection] incoming connection: 127.0.0.1:52472 id: 0
+[22:00:41] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[22:00:41] [sv:dbg:network:connect] : player (0) assigned key (5da9da17)
+[22:00:41] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[22:00:41] ================ OnPlayerConnect ================
+[22:00:41] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:00:41] =================================================
+[22:00:41] [sv:dbg:network:receive] : player (0) identified (port:63283)
+[22:00:44] ================ OnPlayerRequestClass ================
+[22:00:44] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:00:44] ======================================================
+[22:00:44] Player [Fantasma_] esta usando um APK/PC diferente
+[22:01:12] [Comando] Fantasma_: /aa
+[22:01:18] [Comando] Fantasma_: /tra
+[22:01:24] [Comando] Fantasma_: /cv
+[22:01:28] [Comando] Fantasma_: /veh
+[22:01:30] [Comando] Fantasma_: /a
+[22:01:32] [Comando] Fantasma_: /aa
+[22:02:02] [Comando] Fantasma_: /aa
+[22:06:06]  -------------------------------------------
+[22:06:06]            SampVoice unloading...           
+[22:06:06]  -------------------------------------------
+[22:06:06] [dbg:raknet:free] : module releasing...
+[22:06:06] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:06:06] [dbg:raknet:free] : module released
+[22:06:06] [sv:dbg:network:free] : module releasing...
+[22:06:06] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:06:09] filterscripts = ""  (string)
+[22:06:09] 
+[22:06:09] Server Plugins
+[22:06:09] --------------
+[22:06:09]  Loading plugin: crashdetect
+[22:06:09]   CrashDetect v4.15.1 is OK.
+[22:06:09]   Loaded.
+[22:06:09]  Loading plugin: sscanf
+[22:06:09] 
+[22:06:09]  ===============================
+[22:06:09] 
+[22:06:09]       sscanf plugin loaded.     
+[22:06:09] 
+[22:06:09]          Version: 2.13.2
+[22:06:09] 
+[22:06:09]    (c) 2022 Alex "Y_Less" Cole  
+[22:06:09] 
+[22:06:09]  ===============================
+[22:06:09] 
+[22:06:09]   Loaded.
+[22:06:09]  Loading plugin: streamer
+[22:06:09] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:06:09]   Loaded.
+[22:06:09]  Loading plugin: sampvoice
+[22:06:09] [sv:dbg:network:init] : module initializing...
+[22:06:09] [dbg:raknet:init] : module initializing...
+[22:06:09] [dbg:raknet:init] : module initialized
+[22:06:09] [sv:dbg:network:init] : module initialized
+[22:06:09] [sv:dbg:main:Load] : creating 4 work threads...
+[22:06:09]  -------------------------------------------    
+[22:06:09]    ___                __   __    _              
+[22:06:09]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:06:09]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:06:09]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:06:09]                   |_|                           
+[22:06:09]  -------------------------------------------    
+[22:06:09]            SampVoice by MOR loaded              
+[22:06:09]  -------------------------------------------    
+[22:06:09]   Loaded.
+[22:06:09]  Loading plugin: timerfix
+[22:06:09]   >> TimerFix v1.5 successfully loaded.
+[22:06:09]   Loaded.
+[22:06:09]  Loading plugin: YSF
+[22:06:10] 
+[22:06:10]  ===============================
+[22:06:10]         YSF - kurta999's version 2.0 loaded
+[22:06:10]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:06:10]     Server version: 0.3.7 R2-1 or R2-2
+[22:06:10]     Operating System: Windows
+[22:06:10]     Built on: May 24 2020 at 14:42:02
+[22:06:10]  ===============================
+[22:06:10] 
+[22:06:10]   Loaded.
+[22:06:10]  Loading plugin: pawnregex
+[22:06:10] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[22:06:10]   Loaded.
+[22:06:10]  Loading plugin: discord-connector
+[22:06:11]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[22:06:11]   Loaded.
+[22:06:11]  Loading plugin: bscrashfix
+[22:06:11] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[22:06:11] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[22:06:11]   Loaded.
+[22:06:11]  Loaded 9 plugins.
+
+[22:06:12] 
+[22:06:12] Ban list
+[22:06:12] --------
+[22:06:12]  Loaded: samp.ban
+[22:06:12] 
+[22:06:12] 
+[22:06:12] Filterscripts
+[22:06:12] ---------------
+[22:06:12]   Loaded 0 filterscripts.
+
+[22:06:12] [sv:dbg:main:AmxLoad] : net game pointer (value:02389BF8) received
+[22:06:12] [sv:dbg:network:bind] : voice server running on port 58036
+[22:06:12]  
+[22:06:12] --------------------------------------
+[22:06:12]  Anticheat Nex-AC carregado!
+[22:06:12]  Anticheat versao: 1.9.54
+[22:06:12]  Autor: Nexius (PT-BR by NicK_)
+[22:06:12] --------------------------------------
+
+[22:06:12] #rank ovos criado com sucesso
+[22:06:17] [connection] 127.0.0.1:65057 requests connection cookie.
+[22:06:18] [connection] 127.0.0.1:65057 requests connection cookie.
+[22:06:23]  _           _      ______       _           _       
+[22:06:23] | |         (_)     | ___ |     | |         | |      
+[22:06:23] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[22:06:23] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[22:06:23] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[22:06:23] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[22:06:23]                 ______                               
+[22:06:23]                |______|                              
+[22:06:23] Number of vehicle models: 0
+[22:06:23] [connection] incoming connection: 127.0.0.1:65057 id: 0
+[22:06:23] [connection] 127.0.0.1:56126 requests connection cookie.
+[22:06:24] [connection] 127.0.0.1:56126 requests connection cookie.
+[22:06:25] [connection] incoming connection: 127.0.0.1:56126 id: 0
+[22:06:26] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[22:06:26] [sv:dbg:network:connect] : player (0) assigned key (1db68ea4)
+[22:06:26] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[22:06:26] ================ OnPlayerConnect ================
+[22:06:26] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[22:06:26] =================================================
+[22:06:26] [sv:dbg:network:receive] : player (0) identified (port:63283)
+[22:06:28] ================ OnPlayerRequestClass ================
+[22:06:28] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[22:06:28] ======================================================
+[22:06:28] Player [Fantasma_] esta usando um APK/PC diferente
+[22:06:36] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:06:36] [part] Fantasma_ has left the server (0:1)
+[22:07:10] [connection] 127.0.0.1:64988 requests connection cookie.
+[22:07:11] [connection] 127.0.0.1:64988 requests connection cookie.
+[22:07:12] [connection] incoming connection: 127.0.0.1:64988 id: 0
+[22:07:13] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[22:07:13] [sv:dbg:network:connect] : player (0) assigned key (2161d36c)
+[22:07:13] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[22:07:13] ================ OnPlayerConnect ================
+[22:07:13] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:07:13] =================================================
+[22:07:13] [sv:dbg:network:receive] : player (0) identified (port:58277)
+[22:07:16] ================ OnPlayerRequestClass ================
+[22:07:16] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:07:16] ======================================================
+[22:07:16] Player [Fantasma_] esta usando um APK/PC diferente
+[22:09:10] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:09:10] [part] Fantasma_ has left the server (0:1)
+[22:09:13]  -------------------------------------------
+[22:09:13]            SampVoice unloading...           
+[22:09:13]  -------------------------------------------
+[22:09:13] [dbg:raknet:free] : module releasing...
+[22:09:13] [dbg:raknet:free] : module released
+[22:09:13] [sv:dbg:network:free] : module releasing...
+[22:09:13] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:09:16] filterscripts = ""  (string)
+[22:09:16] 
+[22:09:16] Server Plugins
+[22:09:16] --------------
+[22:09:16]  Loading plugin: crashdetect
+[22:09:16]   CrashDetect v4.15.1 is OK.
+[22:09:16]   Loaded.
+[22:09:16]  Loading plugin: sscanf
+[22:09:16] 
+[22:09:16]  ===============================
+[22:09:16] 
+[22:09:16]       sscanf plugin loaded.     
+[22:09:16] 
+[22:09:16]          Version: 2.13.2
+[22:09:16] 
+[22:09:16]    (c) 2022 Alex "Y_Less" Cole  
+[22:09:16] 
+[22:09:16]  ===============================
+[22:09:16] 
+[22:09:16]   Loaded.
+[22:09:16]  Loading plugin: streamer
+[22:09:16] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:09:16]   Loaded.
+[22:09:16]  Loading plugin: sampvoice
+[22:09:16] [sv:dbg:network:init] : module initializing...
+[22:09:16] [dbg:raknet:init] : module initializing...
+[22:09:16] [dbg:raknet:init] : module initialized
+[22:09:16] [sv:dbg:network:init] : module initialized
+[22:09:16] [sv:dbg:main:Load] : creating 4 work threads...
+[22:09:16]  -------------------------------------------    
+[22:09:16]    ___                __   __    _              
+[22:09:16]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:09:16]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:09:16]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:09:16]                   |_|                           
+[22:09:16]  -------------------------------------------    
+[22:09:16]            SampVoice by MOR loaded              
+[22:09:16]  -------------------------------------------    
+[22:09:16]   Loaded.
+[22:09:16]  Loading plugin: timerfix
+[22:09:16]   >> TimerFix v1.5 successfully loaded.
+[22:09:16]   Loaded.
+[22:09:16]  Loading plugin: YSF
+[22:09:16] 
+[22:09:16]  ===============================
+[22:09:16]         YSF - kurta999's version 2.0 loaded
+[22:09:16]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:09:16]     Server version: 0.3.7 R2-1 or R2-2
+[22:09:16]     Operating System: Windows
+[22:09:16]     Built on: May 24 2020 at 14:42:02
+[22:09:16]  ===============================
+[22:09:16] 
+[22:09:16]   Loaded.
+[22:09:16]  Loading plugin: pawnregex
+[22:09:16] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[22:09:16]   Loaded.
+[22:09:16]  Loading plugin: discord-connector
+[22:09:17]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[22:09:17]   Loaded.
+[22:09:17]  Loading plugin: bscrashfix
+[22:09:17] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[22:09:17] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[22:09:17]   Loaded.
+[22:09:17]  Loaded 9 plugins.
+
+[22:09:18] 
+[22:09:18] Ban list
+[22:09:18] --------
+[22:09:18]  Loaded: samp.ban
+[22:09:18] 
+[22:09:18] 
+[22:09:18] Filterscripts
+[22:09:18] ---------------
+[22:09:18]   Loaded 0 filterscripts.
+
+[22:09:18] [sv:dbg:main:AmxLoad] : net game pointer (value:02259BF8) received
+[22:09:18] [sv:dbg:network:bind] : voice server running on port 53928
+[22:09:18]  
+[22:09:18] --------------------------------------
+[22:09:18]  Anticheat Nex-AC carregado!
+[22:09:18]  Anticheat versao: 1.9.54
+[22:09:18]  Autor: Nexius (PT-BR by NicK_)
+[22:09:18] --------------------------------------
+
+[22:09:18] #rank ovos criado com sucesso
+[22:09:20]  _           _      ______       _           _       
+[22:09:20] | |         (_)     | ___ |     | |         | |      
+[22:09:20] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[22:09:20] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[22:09:20] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[22:09:20] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[22:09:20]                 ______                               
+[22:09:20]                |______|                              
+[22:09:20] Number of vehicle models: 0
+[22:09:28] [connection] 127.0.0.1:63789 requests connection cookie.
+[22:09:29] [connection] 127.0.0.1:63789 requests connection cookie.
+[22:09:30] [connection] incoming connection: 127.0.0.1:63789 id: 0
+[22:09:30] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[22:09:30] [sv:dbg:network:connect] : player (0) assigned key (1c902e19)
+[22:09:30] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[22:09:30] ================ OnPlayerConnect ================
+[22:09:30] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:09:30] =================================================
+[22:09:30] [sv:dbg:network:receive] : player (0) identified (port:57667)
+[22:09:33] ================ OnPlayerRequestClass ================
+[22:09:33] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:09:33] ======================================================
+[22:09:33] Player [Fantasma_] esta usando um APK/PC diferente
+[22:10:10] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:10:10] [part] Fantasma_ has left the server (0:1)
+[22:10:10] [connection] 127.0.0.1:56816 requests connection cookie.
+[22:10:11] [connection] 127.0.0.1:56816 requests connection cookie.
+[22:10:12] [connection] incoming connection: 127.0.0.1:56816 id: 0
+[22:10:12] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[22:10:12] [sv:dbg:network:connect] : player (0) assigned key (5e1a3b70)
+[22:10:12] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[22:10:12] ================ OnPlayerConnect ================
+[22:10:12] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[22:10:12] =================================================
+[22:10:13] [sv:dbg:network:receive] : player (0) identified (port:57667)
+[22:10:15] ================ OnPlayerRequestClass ================
+[22:10:15] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[22:10:15] ======================================================
+[22:10:15] Player [Fantasma_] esta usando um APK/PC diferente
+[22:11:15]  -------------------------------------------
+[22:11:15]            SampVoice unloading...           
+[22:11:15]  -------------------------------------------
+[22:11:15] [dbg:raknet:free] : module releasing...
+[22:11:15] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:11:15] [dbg:raknet:free] : module released
+[22:11:15] [sv:dbg:network:free] : module releasing...
+[22:11:15] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:15:31] filterscripts = ""  (string)
+[22:15:31] 
+[22:15:31] Server Plugins
+[22:15:31] --------------
+[22:15:31]  Loading plugin: crashdetect
+[22:15:31]   CrashDetect v4.15.1 is OK.
+[22:15:31]   Loaded.
+[22:15:31]  Loading plugin: sscanf
+[22:15:31] 
+[22:15:31]  ===============================
+[22:15:31] 
+[22:15:31]       sscanf plugin loaded.     
+[22:15:31] 
+[22:15:31]          Version: 2.13.2
+[22:15:31] 
+[22:15:31]    (c) 2022 Alex "Y_Less" Cole  
+[22:15:31] 
+[22:15:31]  ===============================
+[22:15:31] 
+[22:15:31]   Loaded.
+[22:15:31]  Loading plugin: streamer
+[22:15:31] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:15:31]   Loaded.
+[22:15:31]  Loading plugin: sampvoice
+[22:15:31] [sv:dbg:network:init] : module initializing...
+[22:15:31] [dbg:raknet:init] : module initializing...
+[22:15:31] [dbg:raknet:init] : module initialized
+[22:15:31] [sv:dbg:network:init] : module initialized
+[22:15:31] [sv:dbg:main:Load] : creating 4 work threads...
+[22:15:31]  -------------------------------------------    
+[22:15:31]    ___                __   __    _              
+[22:15:31]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:15:31]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:15:31]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:15:31]                   |_|                           
+[22:15:31]  -------------------------------------------    
+[22:15:31]            SampVoice by MOR loaded              
+[22:15:31]  -------------------------------------------    
+[22:15:31]   Loaded.
+[22:15:31]  Loading plugin: timerfix
+[22:15:31]   >> TimerFix v1.5 successfully loaded.
+[22:15:31]   Loaded.
+[22:15:31]  Loading plugin: YSF
+[22:15:31] 
+[22:15:31]  ===============================
+[22:15:31]         YSF - kurta999's version 2.0 loaded
+[22:15:31]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:15:31]     Server version: 0.3.7 R2-1 or R2-2
+[22:15:31]     Operating System: Windows
+[22:15:31]     Built on: May 24 2020 at 14:42:02
+[22:15:31]  ===============================
+[22:15:31] 
+[22:15:31]   Loaded.
+[22:15:31]  Loading plugin: pawnregex
+[22:15:31] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[22:15:31]   Loaded.
+[22:15:32]  Loading plugin: discord-connector
+[22:15:33]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[22:15:33]   Loaded.
+[22:15:33]  Loading plugin: bscrashfix
+[22:15:33] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[22:15:33] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[22:15:33]   Loaded.
+[22:15:33]  Loaded 9 plugins.
+
+[22:15:33] 
+[22:15:33] Ban list
+[22:15:33] --------
+[22:15:33]  Loaded: samp.ban
+[22:15:33] 
+[22:15:33] 
+[22:15:33] Filterscripts
+[22:15:33] ---------------
+[22:15:33]   Loaded 0 filterscripts.
+
+[22:15:33] [sv:dbg:main:AmxLoad] : net game pointer (value:02149BF8) received
+[22:15:33] [sv:dbg:network:bind] : voice server running on port 52369
+[22:15:33]  
+[22:15:33] --------------------------------------
+[22:15:33]  Anticheat Nex-AC carregado!
+[22:15:33]  Anticheat versao: 1.9.54
+[22:15:33]  Autor: Nexius (PT-BR by NicK_)
+[22:15:33] --------------------------------------
+
+[22:15:34] #rank ovos criado com sucesso
+[22:15:35]  _           _      ______       _           _       
+[22:15:35] | |         (_)     | ___ |     | |         | |      
+[22:15:35] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[22:15:35] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[22:15:35] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[22:15:35] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[22:15:35]                 ______                               
+[22:15:35]                |______|                              
+[22:15:35] Number of vehicle models: 0
+[22:15:46] [connection] 127.0.0.1:55072 requests connection cookie.
+[22:15:47] [connection] 127.0.0.1:55072 requests connection cookie.
+[22:15:48] [connection] incoming connection: 127.0.0.1:55072 id: 0
+[22:15:48] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[22:15:48] [sv:dbg:network:connect] : player (0) assigned key (2cfdbb85)
+[22:15:48] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[22:15:48] ================ OnPlayerConnect ================
+[22:15:48] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:15:48] =================================================
+[22:15:48] [sv:dbg:network:receive] : player (0) identified (port:55395)
+[22:15:51] ================ OnPlayerRequestClass ================
+[22:15:51] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:15:51] ======================================================
+[22:15:51] Player [Fantasma_] esta usando um APK/PC diferente
+[22:17:15] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:17:15] [part] Fantasma_ has left the server (0:1)
+[22:17:17]  -------------------------------------------
+[22:17:17]            SampVoice unloading...           
+[22:17:17]  -------------------------------------------
+[22:17:17] [dbg:raknet:free] : module releasing...
+[22:17:17] [dbg:raknet:free] : module released
+[22:17:17] [sv:dbg:network:free] : module releasing...
+[22:17:17] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:17:18] filterscripts = ""  (string)
+[22:17:18] 
+[22:17:18] Server Plugins
+[22:17:18] --------------
+[22:17:18]  Loading plugin: crashdetect
+[22:17:18]   CrashDetect v4.15.1 is OK.
+[22:17:18]   Loaded.
+[22:17:18]  Loading plugin: sscanf
+[22:17:18] 
+[22:17:18]  ===============================
+[22:17:18] 
+[22:17:18]       sscanf plugin loaded.     
+[22:17:18] 
+[22:17:18]          Version: 2.13.2
+[22:17:18] 
+[22:17:18]    (c) 2022 Alex "Y_Less" Cole  
+[22:17:18] 
+[22:17:18]  ===============================
+[22:17:18] 
+[22:17:18]   Loaded.
+[22:17:18]  Loading plugin: streamer
+[22:17:18] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:17:18]   Loaded.
+[22:17:18]  Loading plugin: sampvoice
+[22:17:18] [sv:dbg:network:init] : module initializing...
+[22:17:18] [dbg:raknet:init] : module initializing...
+[22:17:18] [dbg:raknet:init] : module initialized
+[22:17:18] [sv:dbg:network:init] : module initialized
+[22:17:18] [sv:dbg:main:Load] : creating 4 work threads...
+[22:17:18]  -------------------------------------------    
+[22:17:18]    ___                __   __    _              
+[22:17:18]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:17:18]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:17:18]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:17:18]                   |_|                           
+[22:17:18]  -------------------------------------------    
+[22:17:18]            SampVoice by MOR loaded              
+[22:17:18]  -------------------------------------------    
+[22:17:18]   Loaded.
+[22:17:18]  Loading plugin: timerfix
+[22:17:18]   >> TimerFix v1.5 successfully loaded.
+[22:17:18]   Loaded.
+[22:17:18]  Loading plugin: YSF
+[22:17:18] 
+[22:17:18]  ===============================
+[22:17:18]         YSF - kurta999's version 2.0 loaded
+[22:17:18]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:17:18]     Server version: 0.3.7 R2-1 or R2-2
+[22:17:18]     Operating System: Windows
+[22:17:18]     Built on: May 24 2020 at 14:42:02
+[22:17:18]  ===============================
+[22:17:18] 
+[22:17:18]   Loaded.
+[22:17:18]  Loading plugin: pawnregex
+[22:17:18] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[22:17:18]   Loaded.
+[22:17:18]  Loading plugin: discord-connector
+[22:17:20]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[22:17:20]   Loaded.
+[22:17:20]  Loading plugin: bscrashfix
+[22:17:20] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[22:17:20] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[22:17:20]   Loaded.
+[22:17:20]  Loaded 9 plugins.
+
+[22:17:20] 
+[22:17:20] Ban list
+[22:17:20] --------
+[22:17:20]  Loaded: samp.ban
+[22:17:20] 
+[22:17:20] 
+[22:17:20] Filterscripts
+[22:17:20] ---------------
+[22:17:20]   Loaded 0 filterscripts.
+
+[22:17:20] [sv:dbg:main:AmxLoad] : net game pointer (value:02269BF8) received
+[22:17:20] [sv:dbg:network:bind] : voice server running on port 52652
+[22:17:20]  
+[22:17:20] --------------------------------------
+[22:17:20]  Anticheat Nex-AC carregado!
+[22:17:20]  Anticheat versao: 1.9.54
+[22:17:20]  Autor: Nexius (PT-BR by NicK_)
+[22:17:20] --------------------------------------
+
+[22:17:21] #rank ovos criado com sucesso
+[22:17:22]  _           _      ______       _           _       
+[22:17:22] | |         (_)     | ___ |     | |         | |      
+[22:17:22] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[22:17:22] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[22:17:22] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[22:17:22] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[22:17:22]                 ______                               
+[22:17:22]                |______|                              
+[22:17:22] Number of vehicle models: 0
+[22:17:29] [connection] 127.0.0.1:54522 requests connection cookie.
+[22:17:30] [connection] 127.0.0.1:54522 requests connection cookie.
+[22:17:31] [connection] incoming connection: 127.0.0.1:54522 id: 0
+[22:17:31] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[22:17:31] [sv:dbg:network:connect] : player (0) assigned key (1af0a0f7)
+[22:17:31] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[22:17:31] ================ OnPlayerConnect ================
+[22:17:31] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:17:31] =================================================
+[22:17:31] [sv:dbg:network:receive] : player (0) identified (port:63712)
+[22:17:34] ================ OnPlayerRequestClass ================
+[22:17:34] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:17:34] ======================================================
+[22:17:34] Player [Fantasma_] esta usando um APK/PC diferente
+[22:17:40] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:17:40] [part] Fantasma_ has left the server (0:1)
+[22:24:01]  -------------------------------------------
+[22:24:01]            SampVoice unloading...           
+[22:24:01]  -------------------------------------------
+[22:24:01] [dbg:raknet:free] : module releasing...
+[22:24:01] [dbg:raknet:free] : module released
+[22:24:01] [sv:dbg:network:free] : module releasing...
+[22:24:01] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:24:02] filterscripts = ""  (string)
+[22:24:02] 
+[22:24:02] Server Plugins
+[22:24:02] --------------
+[22:24:02]  Loading plugin: crashdetect
+[22:24:02]   CrashDetect v4.15.1 is OK.
+[22:24:02]   Loaded.
+[22:24:02]  Loading plugin: sscanf
+[22:24:02] 
+[22:24:02]  ===============================
+[22:24:02] 
+[22:24:02]       sscanf plugin loaded.     
+[22:24:02] 
+[22:24:02]          Version: 2.13.2
+[22:24:02] 
+[22:24:02]    (c) 2022 Alex "Y_Less" Cole  
+[22:24:02] 
+[22:24:02]  ===============================
+[22:24:02] 
+[22:24:02]   Loaded.
+[22:24:02]  Loading plugin: streamer
+[22:24:02] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:24:02]   Loaded.
+[22:24:02]  Loading plugin: sampvoice
+[22:24:02] [sv:dbg:network:init] : module initializing...
+[22:24:02] [dbg:raknet:init] : module initializing...
+[22:24:02] [dbg:raknet:init] : module initialized
+[22:24:02] [sv:dbg:network:init] : module initialized
+[22:24:02] [sv:dbg:main:Load] : creating 4 work threads...
+[22:24:02]  -------------------------------------------    
+[22:24:02]    ___                __   __    _              
+[22:24:02]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:24:02]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:24:02]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:24:02]                   |_|                           
+[22:24:02]  -------------------------------------------    
+[22:24:02]            SampVoice by MOR loaded              
+[22:24:02]  -------------------------------------------    
+[22:24:02]   Loaded.
+[22:24:02]  Loading plugin: timerfix
+[22:24:02]   >> TimerFix v1.5 successfully loaded.
+[22:24:02]   Loaded.
+[22:24:02]  Loading plugin: YSF
+[22:24:02] 
+[22:24:02]  ===============================
+[22:24:02]         YSF - kurta999's version 2.0 loaded
+[22:24:02]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:24:02]     Server version: 0.3.7 R2-1 or R2-2
+[22:24:02]     Operating System: Windows
+[22:24:02]     Built on: May 24 2020 at 14:42:02
+[22:24:02]  ===============================
+[22:24:02] 
+[22:24:02]   Loaded.
+[22:24:02]  Loading plugin: pawnregex
+[22:24:02] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[22:24:02]   Loaded.
+[22:24:02]  Loading plugin: discord-connector
+[22:24:03]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[22:24:03]   Loaded.
+[22:24:03]  Loading plugin: bscrashfix
+[22:24:03] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[22:24:03] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[22:24:03]   Loaded.
+[22:24:03]  Loaded 9 plugins.
+
+[22:24:03] 
+[22:24:03] Ban list
+[22:24:03] --------
+[22:24:04]  Loaded: samp.ban
+[22:24:04] 
+[22:24:04] 
+[22:24:04] Filterscripts
+[22:24:04] ---------------
+[22:24:04]   Loaded 0 filterscripts.
+
+[22:24:04] [sv:dbg:main:AmxLoad] : net game pointer (value:02249BF8) received
+[22:24:04] [sv:dbg:network:bind] : voice server running on port 51905
+[22:24:04]  
+[22:24:04] --------------------------------------
+[22:24:04]  Anticheat Nex-AC carregado!
+[22:24:04]  Anticheat versao: 1.9.54
+[22:24:04]  Autor: Nexius (PT-BR by NicK_)
+[22:24:04] --------------------------------------
+
+[22:24:04] #rank ovos criado com sucesso
+[22:24:05]  _           _      ______       _           _       
+[22:24:05] | |         (_)     | ___ |     | |         | |      
+[22:24:05] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[22:24:05] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[22:24:05] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[22:24:05] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[22:24:05]                 ______                               
+[22:24:05]                |______|                              
+[22:24:05] Number of vehicle models: 0
+[22:24:13] [connection] 127.0.0.1:63955 requests connection cookie.
+[22:24:14] [connection] 127.0.0.1:63955 requests connection cookie.
+[22:24:15] [connection] incoming connection: 127.0.0.1:63955 id: 0
+[22:24:15] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[22:24:15] [sv:dbg:network:connect] : player (0) assigned key (9dc6caa1)
+[22:24:15] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[22:24:15] ================ OnPlayerConnect ================
+[22:24:15] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:24:15] =================================================
+[22:24:16] [sv:dbg:network:receive] : player (0) identified (port:57488)
+[22:24:18] ================ OnPlayerRequestClass ================
+[22:24:18] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:24:18] ======================================================
+[22:24:18] Player [Fantasma_] esta usando um APK/PC diferente
+[22:27:16]  -------------------------------------------
+[22:27:16]            SampVoice unloading...           
+[22:27:16]  -------------------------------------------
+[22:27:16] [dbg:raknet:free] : module releasing...
+[22:27:16] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:27:16] [dbg:raknet:free] : module released
+[22:27:16] [sv:dbg:network:free] : module releasing...
+[22:27:16] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:27:16] filterscripts = ""  (string)
+[22:27:16] 
+[22:27:16] Server Plugins
+[22:27:16] --------------
+[22:27:16]  Loading plugin: crashdetect
+[22:27:16]   CrashDetect v4.15.1 is OK.
+[22:27:16]   Loaded.
+[22:27:16]  Loading plugin: sscanf
+[22:27:16] 
+[22:27:16]  ===============================
+[22:27:16] 
+[22:27:16]       sscanf plugin loaded.     
+[22:27:16] 
+[22:27:16]          Version: 2.13.2
+[22:27:16] 
+[22:27:16]    (c) 2022 Alex "Y_Less" Cole  
+[22:27:16] 
+[22:27:16]  ===============================
+[22:27:16] 
+[22:27:16]   Loaded.
+[22:27:16]  Loading plugin: streamer
+[22:27:16] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:27:16]   Loaded.
+[22:27:16]  Loading plugin: sampvoice
+[22:27:16] [sv:dbg:network:init] : module initializing...
+[22:27:16] [dbg:raknet:init] : module initializing...
+[22:27:16] [dbg:raknet:init] : module initialized
+[22:27:16] [sv:dbg:network:init] : module initialized
+[22:27:16] [sv:dbg:main:Load] : creating 4 work threads...
+[22:27:16]  -------------------------------------------    
+[22:27:16]    ___                __   __    _              
+[22:27:16]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:27:16]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:27:17]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:27:17]                   |_|                           
+[22:27:17]  -------------------------------------------    
+[22:27:17]            SampVoice by MOR loaded              
+[22:27:17]  -------------------------------------------    
+[22:27:17]   Loaded.
+[22:27:17]  Loading plugin: timerfix
+[22:27:17]   >> TimerFix v1.5 successfully loaded.
+[22:27:17]   Loaded.
+[22:27:17]  Loading plugin: YSF
+[22:27:17] 
+[22:27:17]  ===============================
+[22:27:17]         YSF - kurta999's version 2.0 loaded
+[22:27:17]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:27:17]     Server version: 0.3.7 R2-1 or R2-2
+[22:27:17]     Operating System: Windows
+[22:27:17]     Built on: May 24 2020 at 14:42:02
+[22:27:17]  ===============================
+[22:27:17] 
+[22:27:17]   Loaded.
+[22:27:17]  Loading plugin: pawnregex
+[22:27:17] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[22:27:17]   Loaded.
+[22:27:17]  Loading plugin: discord-connector
+[22:27:18]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[22:27:18]   Loaded.
+[22:27:18]  Loading plugin: bscrashfix
+[22:27:18] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[22:27:18] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[22:27:18]   Loaded.
+[22:27:18]  Loaded 9 plugins.
+
+[22:27:18] 
+[22:27:18] Ban list
+[22:27:18] --------
+[22:27:18]  Loaded: samp.ban
+[22:27:18] 
+[22:27:18] 
+[22:27:18] Filterscripts
+[22:27:18] ---------------
+[22:27:18]   Loaded 0 filterscripts.
+
+[22:27:19] [sv:dbg:main:AmxLoad] : net game pointer (value:023E9BF8) received
+[22:27:19] [sv:dbg:network:bind] : voice server running on port 62364
+[22:27:19]  
+[22:27:19] --------------------------------------
+[22:27:19]  Anticheat Nex-AC carregado!
+[22:27:19]  Anticheat versao: 1.9.54
+[22:27:19]  Autor: Nexius (PT-BR by NicK_)
+[22:27:19] --------------------------------------
+
+[22:27:19] #rank ovos criado com sucesso
+[22:27:20]  _           _      ______       _           _       
+[22:27:20] | |         (_)     | ___ |     | |         | |      
+[22:27:20] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[22:27:20] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[22:27:20] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[22:27:20] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[22:27:20]                 ______                               
+[22:27:20]                |______|                              
+[22:27:20] Number of vehicle models: 0
+[22:27:22] [connection] 127.0.0.1:64563 requests connection cookie.
+[22:27:23] [connection] 127.0.0.1:64563 requests connection cookie.
+[22:27:24] [connection] incoming connection: 127.0.0.1:64563 id: 0
+[22:27:25] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[22:27:25] [sv:dbg:network:connect] : player (0) assigned key (2b79298a)
+[22:27:25] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[22:27:25] ================ OnPlayerConnect ================
+[22:27:25] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[22:27:25] =================================================
+[22:27:25] [sv:dbg:network:receive] : player (0) identified (port:57488)
+[22:27:27] ================ OnPlayerRequestClass ================
+[22:27:27] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[22:27:27] ======================================================
+[22:27:27] Player [Fantasma_] esta usando um APK/PC diferente
+[22:28:20]  -------------------------------------------
+[22:28:20]            SampVoice unloading...           
+[22:28:20]  -------------------------------------------
+[22:28:20] [dbg:raknet:free] : module releasing...
+[22:28:20] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:28:20] [dbg:raknet:free] : module released
+[22:28:20] [sv:dbg:network:free] : module releasing...
+[22:28:20] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:30:51] filterscripts = ""  (string)
+[22:30:51] 
+[22:30:51] Server Plugins
+[22:30:51] --------------
+[22:30:51]  Loading plugin: crashdetect
+[22:30:51]   CrashDetect v4.15.1 is OK.
+[22:30:51]   Loaded.
+[22:30:51]  Loading plugin: sscanf
+[22:30:51] 
+[22:30:51]  ===============================
+[22:30:51] 
+[22:30:51]       sscanf plugin loaded.     
+[22:30:51] 
+[22:30:51]          Version: 2.13.2
+[22:30:51] 
+[22:30:51]    (c) 2022 Alex "Y_Less" Cole  
+[22:30:51] 
+[22:30:51]  ===============================
+[22:30:51] 
+[22:30:51]   Loaded.
+[22:30:51]  Loading plugin: streamer
+[22:30:51] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:30:51]   Loaded.
+[22:30:51]  Loading plugin: sampvoice
+[22:30:51] [sv:dbg:network:init] : module initializing...
+[22:30:51] [dbg:raknet:init] : module initializing...
+[22:30:51] [dbg:raknet:init] : module initialized
+[22:30:51] [sv:dbg:network:init] : module initialized
+[22:30:51] [sv:dbg:main:Load] : creating 4 work threads...
+[22:30:51]  -------------------------------------------    
+[22:30:51]    ___                __   __    _              
+[22:30:51]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:30:51]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:30:51]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:30:51]                   |_|                           
+[22:30:51]  -------------------------------------------    
+[22:30:51]            SampVoice by MOR loaded              
+[22:30:51]  -------------------------------------------    
+[22:30:51]   Loaded.
+[22:30:51]  Loading plugin: timerfix
+[22:30:51]   >> TimerFix v1.5 successfully loaded.
+[22:30:51]   Loaded.
+[22:30:51]  Loading plugin: YSF
+[22:30:51] 
+[22:30:51]  ===============================
+[22:30:51]         YSF - kurta999's version 2.0 loaded
+[22:30:51]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:30:51]     Server version: 0.3.7 R2-1 or R2-2
+[22:30:51]     Operating System: Windows
+[22:30:51]     Built on: May 24 2020 at 14:42:02
+[22:30:51]  ===============================
+[22:30:51] 
+[22:30:51]   Loaded.
+[22:30:51]  Loading plugin: pawnregex
+[22:30:51] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[22:30:51]   Loaded.
+[22:30:51]  Loading plugin: discord-connector
+[22:30:52]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[22:30:52]   Loaded.
+[22:30:52]  Loading plugin: bscrashfix
+[22:30:52] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[22:30:52] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[22:30:52]   Loaded.
+[22:30:52]  Loaded 9 plugins.
+
+[22:30:52] 
+[22:30:52] Ban list
+[22:30:52] --------
+[22:30:52]  Loaded: samp.ban
+[22:30:52] 
+[22:30:52] 
+[22:30:52] Filterscripts
+[22:30:52] ---------------
+[22:30:52]   Loaded 0 filterscripts.
+
+[22:30:53] [sv:dbg:main:AmxLoad] : net game pointer (value:02209BF8) received
+[22:30:53] [sv:dbg:network:bind] : voice server running on port 53056
+[22:30:53]  
+[22:30:53] --------------------------------------
+[22:30:53]  Anticheat Nex-AC carregado!
+[22:30:53]  Anticheat versao: 1.9.54
+[22:30:53]  Autor: Nexius (PT-BR by NicK_)
+[22:30:53] --------------------------------------
+
+[22:30:53] #rank ovos criado com sucesso
+[22:30:54]  _           _      ______       _           _       
+[22:30:54] | |         (_)     | ___ |     | |         | |      
+[22:30:54] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[22:30:54] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[22:30:54] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[22:30:54] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[22:30:54]                 ______                               
+[22:30:54]                |______|                              
+[22:30:54] Number of vehicle models: 0
+[22:31:41] [connection] 127.0.0.1:51816 requests connection cookie.
+[22:31:42] [connection] 127.0.0.1:51816 requests connection cookie.
+[22:31:43] [connection] incoming connection: 127.0.0.1:51816 id: 0
+[22:31:44] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[22:31:44] [sv:dbg:network:connect] : player (0) assigned key (82626206)
+[22:31:44] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[22:31:44] ================ OnPlayerConnect ================
+[22:31:44] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:31:44] =================================================
+[22:31:44] [sv:dbg:network:receive] : player (0) identified (port:54875)
+[22:31:46] ================ OnPlayerRequestClass ================
+[22:31:46] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:31:46] ======================================================
+[22:31:46] Player [Fantasma_] esta usando um APK/PC diferente
+[22:32:15]  -------------------------------------------
+[22:32:15]            SampVoice unloading...           
+[22:32:15]  -------------------------------------------
+[22:32:15] [dbg:raknet:free] : module releasing...
+[22:32:15] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:32:15] [dbg:raknet:free] : module released
+[22:32:15] [sv:dbg:network:free] : module releasing...
+[22:32:15] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:33:33] filterscripts = ""  (string)
+[22:33:33] 
+[22:33:33] Server Plugins
+[22:33:33] --------------
+[22:33:33]  Loading plugin: crashdetect
+[22:33:33]   CrashDetect v4.15.1 is OK.
+[22:33:33]   Loaded.
+[22:33:33]  Loading plugin: sscanf
+[22:33:33] 
+[22:33:33]  ===============================
+[22:33:33] 
+[22:33:33]       sscanf plugin loaded.     
+[22:33:33] 
+[22:33:33]          Version: 2.13.2
+[22:33:33] 
+[22:33:33]    (c) 2022 Alex "Y_Less" Cole  
+[22:33:33] 
+[22:33:33]  ===============================
+[22:33:33] 
+[22:33:33]   Loaded.
+[22:33:33]  Loading plugin: streamer
+[22:33:33] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:33:33]   Loaded.
+[22:33:33]  Loading plugin: sampvoice
+[22:33:33] [sv:dbg:network:init] : module initializing...
+[22:33:33] [dbg:raknet:init] : module initializing...
+[22:33:33] [dbg:raknet:init] : module initialized
+[22:33:33] [sv:dbg:network:init] : module initialized
+[22:33:33] [sv:dbg:main:Load] : creating 4 work threads...
+[22:33:33]  -------------------------------------------    
+[22:33:33]    ___                __   __    _              
+[22:33:33]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:33:33]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:33:33]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:33:33]                   |_|                           
+[22:33:33]  -------------------------------------------    
+[22:33:33]            SampVoice by MOR loaded              
+[22:33:33]  -------------------------------------------    
+[22:33:33]   Loaded.
+[22:33:33]  Loading plugin: timerfix
+[22:33:33]   >> TimerFix v1.5 successfully loaded.
+[22:33:33]   Loaded.
+[22:33:33]  Loading plugin: YSF
+[22:33:33] 
+[22:33:33]  ===============================
+[22:33:33]         YSF - kurta999's version 2.0 loaded
+[22:33:33]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:33:33]     Server version: 0.3.7 R2-1 or R2-2
+[22:33:33]     Operating System: Windows
+[22:33:33]     Built on: May 24 2020 at 14:42:02
+[22:33:33]  ===============================
+[22:33:33] 
+[22:33:33]   Loaded.
+[22:33:33]  Loading plugin: pawnregex
+[22:33:33] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[22:33:33]   Loaded.
+[22:33:33]  Loading plugin: discord-connector
+[22:33:35]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[22:33:35]   Loaded.
+[22:33:35]  Loading plugin: bscrashfix
+[22:33:35] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[22:33:35] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[22:33:35]   Loaded.
+[22:33:35]  Loaded 9 plugins.
+
+[22:33:35] 
+[22:33:35] Ban list
+[22:33:35] --------
+[22:33:35]  Loaded: samp.ban
+[22:33:35] 
+[22:33:35] 
+[22:33:35] Filterscripts
+[22:33:35] ---------------
+[22:33:35]   Loaded 0 filterscripts.
+
+[22:33:35] [sv:dbg:main:AmxLoad] : net game pointer (value:02369BF8) received
+[22:33:35] [sv:dbg:network:bind] : voice server running on port 52552
+[22:33:35]  
+[22:33:35] --------------------------------------
+[22:33:35]  Anticheat Nex-AC carregado!
+[22:33:35]  Anticheat versao: 1.9.54
+[22:33:35]  Autor: Nexius (PT-BR by NicK_)
+[22:33:35] --------------------------------------
+
+[22:33:35] #rank ovos criado com sucesso
+[22:33:37]  _           _      ______       _           _       
+[22:33:37] | |         (_)     | ___ |     | |         | |      
+[22:33:37] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[22:33:37] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[22:33:37] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[22:33:37] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[22:33:37]                 ______                               
+[22:33:37]                |______|                              
+[22:33:37] Number of vehicle models: 0
+[22:33:44] [connection] 127.0.0.1:57669 requests connection cookie.
+[22:33:45] [connection] 127.0.0.1:57669 requests connection cookie.
+[22:33:46] [connection] incoming connection: 127.0.0.1:57669 id: 0
+[22:33:47] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[22:33:47] [sv:dbg:network:connect] : player (0) assigned key (70ff7da5)
+[22:33:47] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[22:33:47] ================ OnPlayerConnect ================
+[22:33:47] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:33:47] =================================================
+[22:33:47] [sv:dbg:network:receive] : player (0) identified (port:60239)
+[22:33:49] ================ OnPlayerRequestClass ================
+[22:33:49] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:33:49] ======================================================
+[22:33:49] Player [Fantasma_] esta usando um APK/PC diferente
+[22:34:23] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:34:23] [part] Fantasma_ has left the server (0:0)
+[22:34:24]  -------------------------------------------
+[22:34:24]            SampVoice unloading...           
+[22:34:24]  -------------------------------------------
+[22:34:24] [dbg:raknet:free] : module releasing...
+[22:34:24] [dbg:raknet:free] : module released
+[22:34:24] [sv:dbg:network:free] : module releasing...
+[22:34:24] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:34:57] filterscripts = ""  (string)
+[22:34:57] 
+[22:34:57] Server Plugins
+[22:34:57] --------------
+[22:34:57]  Loading plugin: crashdetect
+[22:34:57]   CrashDetect v4.15.1 is OK.
+[22:34:57]   Loaded.
+[22:34:57]  Loading plugin: sscanf
+[22:34:57] 
+[22:34:57]  ===============================
+[22:34:57] 
+[22:34:57]       sscanf plugin loaded.     
+[22:34:57] 
+[22:34:57]          Version: 2.13.2
+[22:34:57] 
+[22:34:57]    (c) 2022 Alex "Y_Less" Cole  
+[22:34:57] 
+[22:34:57]  ===============================
+[22:34:57] 
+[22:34:57]   Loaded.
+[22:34:57]  Loading plugin: streamer
+[22:34:57] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:34:57]   Loaded.
+[22:34:57]  Loading plugin: sampvoice
+[22:34:57] [sv:dbg:network:init] : module initializing...
+[22:34:57] [dbg:raknet:init] : module initializing...
+[22:34:57] [dbg:raknet:init] : module initialized
+[22:34:57] [sv:dbg:network:init] : module initialized
+[22:34:57] [sv:dbg:main:Load] : creating 4 work threads...
+[22:34:57]  -------------------------------------------    
+[22:34:57]    ___                __   __    _              
+[22:34:57]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:34:57]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:34:57]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:34:57]                   |_|                           
+[22:34:57]  -------------------------------------------    
+[22:34:57]            SampVoice by MOR loaded              
+[22:34:57]  -------------------------------------------    
+[22:34:57]   Loaded.
+[22:34:57]  Loading plugin: timerfix
+[22:34:57]   >> TimerFix v1.5 successfully loaded.
+[22:34:57]   Loaded.
+[22:34:57]  Loading plugin: YSF
+[22:34:58] 
+[22:34:58]  ===============================
+[22:34:58]         YSF - kurta999's version 2.0 loaded
+[22:34:58]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:34:58]     Server version: 0.3.7 R2-1 or R2-2
+[22:34:58]     Operating System: Windows
+[22:34:58]     Built on: May 24 2020 at 14:42:02
+[22:34:58]  ===============================
+[22:34:58] 
+[22:34:58]   Loaded.
+[22:34:58]  Loading plugin: pawnregex
+[22:34:58] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[22:34:58]   Loaded.
+[22:34:58]  Loading plugin: discord-connector
+[22:34:59]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[22:34:59]   Loaded.
+[22:34:59]  Loading plugin: bscrashfix
+[22:34:59] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[22:34:59] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[22:34:59]   Loaded.
+[22:34:59]  Loaded 9 plugins.
+
+[22:34:59] 
+[22:34:59] Ban list
+[22:34:59] --------
+[22:34:59]  Loaded: samp.ban
+[22:34:59] 
+[22:34:59] 
+[22:34:59] Filterscripts
+[22:34:59] ---------------
+[22:34:59]   Loaded 0 filterscripts.
+
+[22:35:00] [sv:dbg:main:AmxLoad] : net game pointer (value:02249BF8) received
+[22:35:00] [sv:dbg:network:bind] : voice server running on port 52376
+[22:35:00]  
+[22:35:00] --------------------------------------
+[22:35:00]  Anticheat Nex-AC carregado!
+[22:35:00]  Anticheat versao: 1.9.54
+[22:35:00]  Autor: Nexius (PT-BR by NicK_)
+[22:35:00] --------------------------------------
+
+[22:35:00] #rank ovos criado com sucesso
+[22:35:02]  _           _      ______       _           _       
+[22:35:02] | |         (_)     | ___ |     | |         | |      
+[22:35:02] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[22:35:02] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[22:35:02] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[22:35:02] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[22:35:02]                 ______                               
+[22:35:02]                |______|                              
+[22:35:02] Number of vehicle models: 0
+[22:35:16] [connection] 127.0.0.1:52159 requests connection cookie.
+[22:35:17] [connection] 127.0.0.1:52159 requests connection cookie.
+[22:35:18] [connection] incoming connection: 127.0.0.1:52159 id: 0
+[22:35:18] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[22:35:18] [sv:dbg:network:connect] : player (0) assigned key (267e86f7)
+[22:35:18] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[22:35:18] ================ OnPlayerConnect ================
+[22:35:18] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:35:18] =================================================
+[22:35:18] [sv:dbg:network:receive] : player (0) identified (port:49421)
+[22:35:21] ================ OnPlayerRequestClass ================
+[22:35:21] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:35:21] ======================================================
+[22:35:21] Player [Fantasma_] esta usando um APK/PC diferente
+[22:36:09] [Comando] Fantasma_: /tra
+[22:36:39] [Comando] Fantasma_: /darcoins
+[22:36:50] [Comando] Fantasma_: /darcoins 1 100000
+[22:36:58] [Comando] Fantasma_: /gps
+[22:37:27] [Comando] Fantasma_: /dargrana
+[22:37:31] [Comando] Fantasma_: /setgrana
+[22:37:34] [Comando] Fantasma_: /aa
+[22:41:00] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:41:00] [part] Fantasma_ has left the server (0:1)
+[22:41:02]  -------------------------------------------
+[22:41:02]            SampVoice unloading...           
+[22:41:02]  -------------------------------------------
+[22:41:02] [dbg:raknet:free] : module releasing...
+[22:41:02] [dbg:raknet:free] : module released
+[22:41:02] [sv:dbg:network:free] : module releasing...
+[22:41:02] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:45:27] filterscripts = ""  (string)
+[22:45:27] 
+[22:45:27] Server Plugins
+[22:45:27] --------------
+[22:45:27]  Loading plugin: crashdetect
+[22:45:27]   CrashDetect v4.15.1 is OK.
+[22:45:27]   Loaded.
+[22:45:27]  Loading plugin: sscanf
+[22:45:27] 
+[22:45:27]  ===============================
+[22:45:27] 
+[22:45:27]       sscanf plugin loaded.     
+[22:45:27] 
+[22:45:27]          Version: 2.13.2
+[22:45:27] 
+[22:45:27]    (c) 2022 Alex "Y_Less" Cole  
+[22:45:27] 
+[22:45:27]  ===============================
+[22:45:27] 
+[22:45:27]   Loaded.
+[22:45:27]  Loading plugin: streamer
+[22:45:27] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:45:27]   Loaded.
+[22:45:27]  Loading plugin: sampvoice
+[22:45:27] [sv:dbg:network:init] : module initializing...
+[22:45:27] [dbg:raknet:init] : module initializing...
+[22:45:27] [dbg:raknet:init] : module initialized
+[22:45:27] [sv:dbg:network:init] : module initialized
+[22:45:27] [sv:dbg:main:Load] : creating 4 work threads...
+[22:45:27]  -------------------------------------------    
+[22:45:27]    ___                __   __    _              
+[22:45:27]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:45:27]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:45:27]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:45:27]                   |_|                           
+[22:45:27]  -------------------------------------------    
+[22:45:28]            SampVoice by MOR loaded              
+[22:45:28]  -------------------------------------------    
+[22:45:28]   Loaded.
+[22:45:28]  Loading plugin: timerfix
+[22:45:28]   >> TimerFix v1.5 successfully loaded.
+[22:45:28]   Loaded.
+[22:45:28]  Loading plugin: YSF
+[22:45:28] 
+[22:45:28]  ===============================
+[22:45:28]         YSF - kurta999's version 2.0 loaded
+[22:45:28]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:45:28]     Server version: 0.3.7 R2-1 or R2-2
+[22:45:28]     Operating System: Windows
+[22:45:28]     Built on: May 24 2020 at 14:42:02
+[22:45:28]  ===============================
+[22:45:28] 
+[22:45:28]   Loaded.
+[22:45:28]  Loading plugin: pawnregex
+[22:45:28] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[22:45:28]   Loaded.
+[22:45:28]  Loading plugin: discord-connector
+[22:45:29]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[22:45:29]   Loaded.
+[22:45:29]  Loading plugin: bscrashfix
+[22:45:29] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[22:45:29] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[22:45:29]   Loaded.
+[22:45:29]  Loaded 9 plugins.
+
+[22:45:29] 
+[22:45:29] Ban list
+[22:45:29] --------
+[22:45:29]  Loaded: samp.ban
+[22:45:29] 
+[22:45:29] 
+[22:45:29] Filterscripts
+[22:45:29] ---------------
+[22:45:29]   Loaded 0 filterscripts.
+
+[22:45:30] [sv:dbg:main:AmxLoad] : net game pointer (value:006D9BF8) received
+[22:45:30] [sv:dbg:network:bind] : voice server running on port 52826
+[22:45:30]  
+[22:45:30] --------------------------------------
+[22:45:30]  Anticheat Nex-AC carregado!
+[22:45:30]  Anticheat versao: 1.9.54
+[22:45:30]  Autor: Nexius (PT-BR by NicK_)
+[22:45:30] --------------------------------------
+
+[22:45:30] #rank ovos criado com sucesso
+[22:45:31]  _           _      ______       _           _       
+[22:45:31] | |         (_)     | ___ |     | |         | |      
+[22:45:31] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[22:45:31] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[22:45:31] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[22:45:31] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[22:45:31]                 ______                               
+[22:45:31]                |______|                              
+[22:45:31] Number of vehicle models: 0
+[22:45:42] [connection] 127.0.0.1:65244 requests connection cookie.
+[22:45:43] [connection] 127.0.0.1:65244 requests connection cookie.
+[22:45:44] [connection] incoming connection: 127.0.0.1:65244 id: 0
+[22:45:45] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[22:45:45] [sv:dbg:network:connect] : player (0) assigned key (e39ddc7e)
+[22:45:45] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[22:45:45] ================ OnPlayerConnect ================
+[22:45:45] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:45:45] =================================================
+[22:45:45] [sv:dbg:network:receive] : player (0) identified (port:64094)
+[22:45:48] ================ OnPlayerRequestClass ================
+[22:45:48] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[22:45:48] ======================================================
+[22:45:48] Player [Fantasma_] esta usando um APK/PC diferente
+[22:48:00] [Comando] Fantasma_: /AJUDA
+[22:50:21] [Comando] Fantasma_: /ajuda
+[22:50:30] [Comando] Fantasma_: /ajuda
+[22:51:35] [Comando] Fantasma_: /gps
+[22:51:43] [Comando] Fantasma_: /oja
+[22:51:47] [Comando] Fantasma_: /loja
+[22:52:49] [Comando] Fantasma_: /limparorg
+[22:52:55] [Comando] Fantasma_: /limparlider
+[22:52:59] [Comando] Fantasma_: /aa
+[22:53:21] [Comando] Fantasma_: /tirarlider
+[22:53:24] [Comando] Fantasma_: /tra
+[22:53:25] [Comando] Fantasma_: /tirarlider
+[22:53:34] [Comando] Fantasma_: /tirarlider 1
+[22:53:50] [Comando] Fantasma_: /tirarlider 2
+[22:53:51] [Comando] Fantasma_: /tirarlider 4
+[22:53:53] [Comando] Fantasma_: /tirarlider 5
+[22:53:55] [Comando] Fantasma_: /tirarlider 6
+[22:53:59] [Comando] Fantasma_: /tirarlider 7
+[22:54:01] [Comando] Fantasma_: /tirarlider 8
+[22:54:19] [Comando] Fantasma_: /tirarlider 10
+[22:54:21] [Comando] Fantasma_: /tirarlider 15
+[22:54:22] [Comando] Fantasma_: /tirarlider 16
+[22:54:24] [Comando] Fantasma_: /tirarlider 17
+[22:54:51] [Comando] Fantasma_: /tirarlider 20
+[22:54:52] [Comando] Fantasma_: /tirarlider 22
+[22:54:54] [Comando] Fantasma_: /tirarlider 26
+[22:54:56] [Comando] Fantasma_: /tirarlider 27
+[22:54:59] [Comando] Fantasma_: /tirarlider 28
+[22:55:00] [Comando] Fantasma_: /tirarlider 29
+[22:55:51] [Comando] Fantasma_: /gps
+[22:56:16] [Comando] Fantasma_: /gps
+[22:56:50] [Comando] Fantasma_: /gps
+[22:57:11] [Comando] Fantasma_: /gps
+[23:00:59] [sv:dbg:network:connect] : disconnecting player (0) ...
+[23:00:59] [part] Fantasma_ has left the server (0:1)
+[23:01:09]  -------------------------------------------
+[23:01:09]            SampVoice unloading...           
+[23:01:09]  -------------------------------------------
+[23:01:09] [dbg:raknet:free] : module releasing...
+[23:01:09] [dbg:raknet:free] : module released
+[23:01:09] [sv:dbg:network:free] : module releasing...
+[23:01:09] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:01:10] filterscripts = ""  (string)
+[23:01:10] 
+[23:01:10] Server Plugins
+[23:01:10] --------------
+[23:01:10]  Loading plugin: crashdetect
+[23:01:10]   CrashDetect v4.15.1 is OK.
+[23:01:10]   Loaded.
+[23:01:10]  Loading plugin: sscanf
+[23:01:10] 
+[23:01:10]  ===============================
+[23:01:10] 
+[23:01:10]       sscanf plugin loaded.     
+[23:01:10] 
+[23:01:10]          Version: 2.13.2
+[23:01:10] 
+[23:01:10]    (c) 2022 Alex "Y_Less" Cole  
+[23:01:10] 
+[23:01:10]  ===============================
+[23:01:10] 
+[23:01:10]   Loaded.
+[23:01:10]  Loading plugin: streamer
+[23:01:10] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[23:01:10]   Loaded.
+[23:01:10]  Loading plugin: sampvoice
+[23:01:10] [sv:dbg:network:init] : module initializing...
+[23:01:10] [dbg:raknet:init] : module initializing...
+[23:01:10] [dbg:raknet:init] : module initialized
+[23:01:10] [sv:dbg:network:init] : module initialized
+[23:01:10] [sv:dbg:main:Load] : creating 4 work threads...
+[23:01:10]  -------------------------------------------    
+[23:01:10]    ___                __   __    _              
+[23:01:10]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[23:01:10]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[23:01:10]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[23:01:10]                   |_|                           
+[23:01:10]  -------------------------------------------    
+[23:01:10]            SampVoice by MOR loaded              
+[23:01:10]  -------------------------------------------    
+[23:01:10]   Loaded.
+[23:01:10]  Loading plugin: timerfix
+[23:01:10]   >> TimerFix v1.5 successfully loaded.
+[23:01:10]   Loaded.
+[23:01:10]  Loading plugin: YSF
+[23:01:10] 
+[23:01:10]  ===============================
+[23:01:10]         YSF - kurta999's version 2.0 loaded
+[23:01:10]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[23:01:10]     Server version: 0.3.7 R2-1 or R2-2
+[23:01:10]     Operating System: Windows
+[23:01:10]     Built on: May 24 2020 at 14:42:02
+[23:01:10]  ===============================
+[23:01:10] 
+[23:01:10]   Loaded.
+[23:01:10]  Loading plugin: pawnregex
+[23:01:10] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[23:01:10]   Loaded.
+[23:01:10]  Loading plugin: discord-connector
+[23:01:11]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[23:01:11]   Loaded.
+[23:01:11]  Loading plugin: bscrashfix
+[23:01:11] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[23:01:11] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[23:01:11]   Loaded.
+[23:01:11]  Loaded 9 plugins.
+
+[23:01:11] 
+[23:01:11] Ban list
+[23:01:11] --------
+[23:01:11]  Loaded: samp.ban
+[23:01:11] 
+[23:01:11] 
+[23:01:11] Filterscripts
+[23:01:11] ---------------
+[23:01:12]   Loaded 0 filterscripts.
+
+[23:01:12] [sv:dbg:main:AmxLoad] : net game pointer (value:022C9BF8) received
+[23:01:12] [sv:dbg:network:bind] : voice server running on port 59213
+[23:01:12]  
+[23:01:12] --------------------------------------
+[23:01:12]  Anticheat Nex-AC carregado!
+[23:01:12]  Anticheat versao: 1.9.54
+[23:01:12]  Autor: Nexius (PT-BR by NicK_)
+[23:01:12] --------------------------------------
+
+[23:01:12] #rank ovos criado com sucesso
+[23:01:13]  _           _      ______       _           _       
+[23:01:13] | |         (_)     | ___ |     | |         | |      
+[23:01:13] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[23:01:13] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[23:01:13] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[23:01:13] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[23:01:13]                 ______                               
+[23:01:13]                |______|                              
+[23:01:13] Number of vehicle models: 0
+[23:01:28] [connection] 127.0.0.1:57450 requests connection cookie.
+[23:01:29] [connection] 127.0.0.1:57450 requests connection cookie.
+[23:01:30] [connection] incoming connection: 127.0.0.1:57450 id: 0
+[23:01:30] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[23:01:30] [sv:dbg:network:connect] : player (0) assigned key (8cc3595b)
+[23:01:30] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[23:01:30] ================ OnPlayerConnect ================
+[23:01:30] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[23:01:30] =================================================
+[23:01:31] [sv:dbg:network:receive] : player (0) identified (port:60158)
+[23:01:33] ================ OnPlayerRequestClass ================
+[23:01:33] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[23:01:33] ======================================================
+[23:01:33] Player [Fantasma_] esta usando um APK/PC diferente
+[23:02:01] [Comando] Fantasma_: /continuar
+[23:02:18] [Comando] Fantasma_: /clima
+[23:02:21] [Comando] Fantasma_: /tra
+[23:02:22] [Comando] Fantasma_: /clima
+[23:04:21] [Comando] Fantasma_: /setskin
+[23:04:24] [Comando] Fantasma_: /setarskin
+[23:04:44] [sv:dbg:network:connect] : disconnecting player (0) ...
+[23:04:44] [part] Fantasma_ has left the server (0:1)
+[23:04:46]  -------------------------------------------
+[23:04:46]            SampVoice unloading...           
+[23:04:46]  -------------------------------------------
+[23:04:46] [dbg:raknet:free] : module releasing...
+[23:04:46] [dbg:raknet:free] : module released
+[23:04:46] [sv:dbg:network:free] : module releasing...
+[23:04:46] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:54:51] filterscripts = ""  (string)
+[18:54:51] 
+[18:54:51] Server Plugins
+[18:54:51] --------------
+[18:54:51]  Loading plugin: crashdetect
+[18:54:51]   CrashDetect v4.15.1 is OK.
+[18:54:51]   Loaded.
+[18:54:51]  Loading plugin: sscanf
+[18:54:51] 
+[18:54:51]  ===============================
+[18:54:51] 
+[18:54:51]       sscanf plugin loaded.     
+[18:54:51] 
+[18:54:51]          Version: 2.13.2
+[18:54:51] 
+[18:54:51]    (c) 2022 Alex "Y_Less" Cole  
+[18:54:51] 
+[18:54:51]  ===============================
+[18:54:51] 
+[18:54:51]   Loaded.
+[18:54:51]  Loading plugin: streamer
+[18:54:51] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:54:51]   Loaded.
+[18:54:51]  Loading plugin: sampvoice
+[18:54:51] [sv:dbg:network:init] : module initializing...
+[18:54:51] [dbg:raknet:init] : module initializing...
+[18:54:51] [dbg:raknet:init] : module initialized
+[18:54:51] [sv:dbg:network:init] : module initialized
+[18:54:51] [sv:dbg:main:Load] : creating 4 work threads...
+[18:54:51]  -------------------------------------------    
+[18:54:51]    ___                __   __    _              
+[18:54:51]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[18:54:51]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[18:54:51]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[18:54:51]                   |_|                           
+[18:54:51]  -------------------------------------------    
+[18:54:51]            SampVoice by MOR loaded              
+[18:54:51]  -------------------------------------------    
+[18:54:51]   Loaded.
+[18:54:51]  Loading plugin: timerfix
+[18:54:51]   >> TimerFix v1.5 successfully loaded.
+[18:54:51]   Loaded.
+[18:54:51]  Loading plugin: YSF
+[18:54:52] 
+[18:54:52]  ===============================
+[18:54:52]         YSF - kurta999's version 2.0 loaded
+[18:54:52]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[18:54:52]     Server version: 0.3.7 R2-1 or R2-2
+[18:54:52]     Operating System: Windows
+[18:54:52]     Built on: May 24 2020 at 14:42:02
+[18:54:52]  ===============================
+[18:54:52] 
+[18:54:52]   Loaded.
+[18:54:52]  Loading plugin: pawnregex
+[18:54:52] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[18:54:52]   Loaded.
+[18:54:52]  Loading plugin: discord-connector
+[18:54:54]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[18:54:54]   Loaded.
+[18:54:54]  Loading plugin: bscrashfix
+[18:54:54] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[18:54:54] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[18:54:54]   Loaded.
+[18:54:54]  Loaded 9 plugins.
+
+[18:54:54] 
+[18:54:54] Ban list
+[18:54:54] --------
+[18:54:54]  Loaded: samp.ban
+[18:54:54] 
+[18:54:54] 
+[18:54:54] Filterscripts
+[18:54:54] ---------------
+[18:54:54]   Loaded 0 filterscripts.
+
+[18:54:55] [sv:dbg:main:AmxLoad] : net game pointer (value:02549C40) received
+[18:54:55] [sv:dbg:network:bind] : voice server running on port 61097
+[18:54:55]  
+[18:54:55] --------------------------------------
+[18:54:55]  Anticheat Nex-AC carregado!
+[18:54:55]  Anticheat versao: 1.9.54
+[18:54:55]  Autor: Nexius (PT-BR by NicK_)
+[18:54:55] --------------------------------------
+
+[18:54:55] #rank ovos criado com sucesso
+[18:55:07]  _           _      ______       _           _       
+[18:55:07] | |         (_)     | ___ |     | |         | |      
+[18:55:07] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[18:55:07] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[18:55:07] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[18:55:07] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[18:55:07]                 ______                               
+[18:55:07]                |______|                              
+[18:55:07] Number of vehicle models: 0
+[18:57:07] [connection] 127.0.0.1:57224 requests connection cookie.
+[18:57:08] [connection] 127.0.0.1:57224 requests connection cookie.
+[18:57:09] [connection] incoming connection: 127.0.0.1:57224 id: 0
+[18:57:10] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[18:57:10] [sv:dbg:network:connect] : player (0) assigned key (6fa0b5a7)
+[18:57:10] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[18:57:10] ================ OnPlayerConnect ================
+[18:57:10] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[18:57:10] =================================================
+[18:57:10] [sv:dbg:network:receive] : player (0) identified (port:56116)
+[18:57:13] ================ OnPlayerRequestClass ================
+[18:57:13] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[18:57:13] ======================================================
+[18:57:13] Player [Fantasma_] esta usando um APK/PC diferente
+[18:57:40] [Comando] Fantasma_: /cv
+[18:57:41] [Comando] Fantasma_: /aaa
+[18:57:43] [Comando] Fantasma_: /aa
+[18:57:56] [Comando] Fantasma_: /menuadm
+[18:57:59] [Comando] Fantasma_: /tra
+[18:58:00] [Comando] Fantasma_: /menuadm
+[18:58:07] [Comando] Fantasma_: /menuadm
+[18:58:12] [Comando] Fantasma_: /menuadm
+[18:58:16] [Comando] Fantasma_: /menuadm
+[18:58:19] [Comando] Fantasma_: /menuadm
+[18:58:47] [Comando] Fantasma_: /clima
+[18:59:17] [Comando] Fantasma_: /AA
+[18:59:44] [Comando] Fantasma_: /setarinv
+[18:59:52] [Comando] Fantasma_: /setarinv
+[19:00:04] [Comando] Fantasma_: /setarinv 1 411 1
+[19:00:07] [Comando] Fantasma_: /aa
+[19:00:28] [Comando] Fantasma_: /setarid
+[19:00:31] [Comando] Fantasma_: /setaridf
+[19:03:27] [Comando] Fantasma_: /dargrana
+[19:03:30] [Comando] Fantasma_: /setargrana
+[19:03:34] [Comando] Fantasma_: /setargrana 1 10000000
+[19:04:20] [Comando] Fantasma_: /menuadm~
+[19:04:21] [Comando] Fantasma_: /menuadm~
+[19:04:22] [Comando] Fantasma_: /menuadm
+[19:04:49] [Comando] Fantasma_: /menuadm
+[19:06:07] [Comando] Fantasma_: /menuadm
+[19:06:17] [Comando] Fantasma_: /gps
+[19:06:57] [sv:dbg:network:connect] : disconnecting player (0) ...
+[19:06:57] [part] Fantasma_ has left the server (0:1)
+[19:07:14] [connection] 127.0.0.1:59087 requests connection cookie.
+[19:07:15] [connection] 127.0.0.1:59087 requests connection cookie.
+[19:07:16] [connection] incoming connection: 127.0.0.1:59087 id: 0
+[19:07:17] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[19:07:17] [sv:dbg:network:connect] : player (0) assigned key (adffdcc2)
+[19:07:17] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[19:07:17] ================ OnPlayerConnect ================
+[19:07:17] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[19:07:17] =================================================
+[19:07:17] Player Fantasma_[0] Kickado Por Usar Apk/PC Nao Permitido
+[19:07:17] [sv:dbg:network:connect] : disconnecting player (0) ...
+[19:07:17] [part] Fantasma_ has left the server (0:2)
+[19:13:45]  -------------------------------------------
+[19:13:45]            SampVoice unloading...           
+[19:13:45]  -------------------------------------------
+[19:13:45] [dbg:raknet:free] : module releasing...
+[19:13:45] [dbg:raknet:free] : module released
+[19:13:45] [sv:dbg:network:free] : module releasing...
+[19:13:45] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:13:46] filterscripts = ""  (string)
+[19:13:46] 
+[19:13:46] Server Plugins
+[19:13:46] --------------
+[19:13:46]  Loading plugin: crashdetect
+[19:13:46]   CrashDetect v4.15.1 is OK.
+[19:13:46]   Loaded.
+[19:13:46]  Loading plugin: sscanf
+[19:13:46] 
+[19:13:46]  ===============================
+[19:13:46] 
+[19:13:46]       sscanf plugin loaded.     
+[19:13:46] 
+[19:13:46]          Version: 2.13.2
+[19:13:46] 
+[19:13:46]    (c) 2022 Alex "Y_Less" Cole  
+[19:13:46] 
+[19:13:46]  ===============================
+[19:13:46] 
+[19:13:46]   Loaded.
+[19:13:46]  Loading plugin: streamer
+[19:13:46] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:13:46]   Loaded.
+[19:13:46]  Loading plugin: sampvoice
+[19:13:46] [sv:dbg:network:init] : module initializing...
+[19:13:46] [dbg:raknet:init] : module initializing...
+[19:13:46] [dbg:raknet:init] : module initialized
+[19:13:46] [sv:dbg:network:init] : module initialized
+[19:13:46] [sv:dbg:main:Load] : creating 4 work threads...
+[19:13:46]  -------------------------------------------    
+[19:13:46]    ___                __   __    _              
+[19:13:46]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[19:13:46]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[19:13:46]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[19:13:46]                   |_|                           
+[19:13:46]  -------------------------------------------    
+[19:13:46]            SampVoice by MOR loaded              
+[19:13:46]  -------------------------------------------    
+[19:13:46]   Loaded.
+[19:13:46]  Loading plugin: timerfix
+[19:13:46]   >> TimerFix v1.5 successfully loaded.
+[19:13:46]   Loaded.
+[19:13:46]  Loading plugin: YSF
+[19:13:46] 
+[19:13:46]  ===============================
+[19:13:46]         YSF - kurta999's version 2.0 loaded
+[19:13:46]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[19:13:46]     Server version: 0.3.7 R2-1 or R2-2
+[19:13:46]     Operating System: Windows
+[19:13:46]     Built on: May 24 2020 at 14:42:02
+[19:13:46]  ===============================
+[19:13:46] 
+[19:13:46]   Loaded.
+[19:13:46]  Loading plugin: pawnregex
+[19:13:47] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[19:13:47]   Loaded.
+[19:13:47]  Loading plugin: discord-connector
+[19:13:48]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[19:13:48]   Loaded.
+[19:13:48]  Loading plugin: bscrashfix
+[19:13:48] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[19:13:48] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[19:13:48]   Loaded.
+[19:13:48]  Loaded 9 plugins.
+
+[19:13:49] 
+[19:13:49] Ban list
+[19:13:49] --------
+[19:13:49]  Loaded: samp.ban
+[19:13:49] 
+[19:13:49] 
+[19:13:49] Filterscripts
+[19:13:49] ---------------
+[19:13:49]   Loaded 0 filterscripts.
+
+[19:13:49] [connection] 127.0.0.1:54579 requests connection cookie.
+[19:13:49] [sv:dbg:main:AmxLoad] : net game pointer (value:02209C08) received
+[19:13:49] [sv:dbg:network:bind] : voice server running on port 56912
+[19:13:49]  
+[19:13:49] --------------------------------------
+[19:13:49]  Anticheat Nex-AC carregado!
+[19:13:49]  Anticheat versao: 1.9.54
+[19:13:49]  Autor: Nexius (PT-BR by NicK_)
+[19:13:49] --------------------------------------
+
+[19:13:49] #rank ovos criado com sucesso
+[19:13:50] [connection] 127.0.0.1:54579 requests connection cookie.
+[19:13:51]  _           _      ______       _           _       
+[19:13:51] | |         (_)     | ___ |     | |         | |      
+[19:13:51] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[19:13:51] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[19:13:51] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[19:13:51] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[19:13:51]                 ______                               
+[19:13:51]                |______|                              
+[19:13:51] Number of vehicle models: 0
+[19:13:51] [connection] incoming connection: 127.0.0.1:54579 id: 0
+[19:13:51] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[19:13:51] [sv:dbg:network:connect] : player (0) assigned key (292d35bf)
+[19:13:51] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[19:13:51] ================ OnPlayerConnect ================
+[19:13:51] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[19:13:51] =================================================
+[19:13:52] [sv:dbg:network:receive] : player (0) identified (port:53117)
+[19:13:53] [sv:dbg:network:connect] : disconnecting player (0) ...
+[19:13:53] [part] Fantasma_ has left the server (0:1)
+[19:13:53] [connection] 127.0.0.1:60919 requests connection cookie.
+[19:13:54] [connection] 127.0.0.1:60919 requests connection cookie.
+[19:13:55] [connection] incoming connection: 127.0.0.1:60919 id: 0
+[19:13:56] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[19:13:56] [sv:dbg:network:connect] : player (0) assigned key (4f8b76a8)
+[19:13:56] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[19:13:56] ================ OnPlayerConnect ================
+[19:13:56] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[19:13:56] =================================================
+[19:13:57] [sv:dbg:network:receive] : player (0) identified (port:53117)
+[19:14:00] [sv:dbg:network:connect] : disconnecting player (0) ...
+[19:14:00] [part] Fantasma_ has left the server (0:1)
+[19:14:00] [connection] 127.0.0.1:58727 requests connection cookie.
+[19:14:01] [connection] 127.0.0.1:58727 requests connection cookie.
+[19:14:15] [connection] 127.0.0.1:52584 requests connection cookie.
+[19:14:16] [connection] 127.0.0.1:52584 requests connection cookie.
+[19:14:17] [connection] incoming connection: 127.0.0.1:52584 id: 0
+[19:14:18] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[19:14:18] [sv:dbg:network:connect] : player (0) assigned key (81df9c85)
+[19:14:18] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[19:14:18] ================ OnPlayerConnect ================
+[19:14:18] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[19:14:18] =================================================
+[19:14:18] [sv:dbg:network:receive] : player (0) identified (port:61628)
+[19:14:21] ================ OnPlayerRequestClass ================
+[19:14:21] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[19:14:21] ======================================================
+[19:14:21] Player [Fantasma_] esta usando um APK/PC diferente
+[19:14:59] [sv:dbg:network:connect] : disconnecting player (0) ...
+[19:14:59] [part] Fantasma_ has left the server (0:0)
+[19:24:04]  -------------------------------------------
+[19:24:04]            SampVoice unloading...           
+[19:24:04]  -------------------------------------------
+[19:24:04] [dbg:raknet:free] : module releasing...
+[19:24:04] [dbg:raknet:free] : module released
+[19:24:04] [sv:dbg:network:free] : module releasing...
+[19:24:04] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:24:05] filterscripts = ""  (string)
+[19:24:05] 
+[19:24:05] Server Plugins
+[19:24:05] --------------
+[19:24:05]  Loading plugin: crashdetect
+[19:24:05]   CrashDetect v4.15.1 is OK.
+[19:24:05]   Loaded.
+[19:24:05]  Loading plugin: sscanf
+[19:24:05] 
+[19:24:05]  ===============================
+[19:24:05] 
+[19:24:05]       sscanf plugin loaded.     
+[19:24:05] 
+[19:24:05]          Version: 2.13.2
+[19:24:05] 
+[19:24:05]    (c) 2022 Alex "Y_Less" Cole  
+[19:24:05] 
+[19:24:05]  ===============================
+[19:24:05] 
+[19:24:05]   Loaded.
+[19:24:05]  Loading plugin: streamer
+[19:24:05] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:24:05]   Loaded.
+[19:24:05]  Loading plugin: sampvoice
+[19:24:05] [sv:dbg:network:init] : module initializing...
+[19:24:05] [dbg:raknet:init] : module initializing...
+[19:24:05] [dbg:raknet:init] : module initialized
+[19:24:05] [sv:dbg:network:init] : module initialized
+[19:24:05] [sv:dbg:main:Load] : creating 4 work threads...
+[19:24:05]  -------------------------------------------    
+[19:24:05]    ___                __   __    _              
+[19:24:05]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[19:24:05]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[19:24:05]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[19:24:05]                   |_|                           
+[19:24:05]  -------------------------------------------    
+[19:24:05]            SampVoice by MOR loaded              
+[19:24:05]  -------------------------------------------    
+[19:24:05]   Loaded.
+[19:24:06]  Loading plugin: timerfix
+[19:24:06]   >> TimerFix v1.5 successfully loaded.
+[19:24:06]   Loaded.
+[19:24:06]  Loading plugin: YSF
+[19:24:06] 
+[19:24:06]  ===============================
+[19:24:06]         YSF - kurta999's version 2.0 loaded
+[19:24:06]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[19:24:06]     Server version: 0.3.7 R2-1 or R2-2
+[19:24:06]     Operating System: Windows
+[19:24:06]     Built on: May 24 2020 at 14:42:02
+[19:24:06]  ===============================
+[19:24:06] 
+[19:24:06]   Loaded.
+[19:24:06]  Loading plugin: pawnregex
+[19:24:06] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[19:24:06]   Loaded.
+[19:24:06]  Loading plugin: discord-connector
+[19:24:07]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[19:24:07]   Loaded.
+[19:24:07]  Loading plugin: bscrashfix
+[19:24:07] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[19:24:07] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[19:24:07]   Loaded.
+[19:24:07]  Loaded 9 plugins.
+
+[19:24:07] 
+[19:24:07] Ban list
+[19:24:07] --------
+[19:24:07]  Loaded: samp.ban
+[19:24:07] 
+[19:24:08] 
+[19:24:08] Filterscripts
+[19:24:08] ---------------
+[19:24:08]   Loaded 0 filterscripts.
+
+[19:24:08] [sv:dbg:main:AmxLoad] : net game pointer (value:023A9C08) received
+[19:24:08] [sv:dbg:network:bind] : voice server running on port 61209
+[19:24:08]  
+[19:24:08] --------------------------------------
+[19:24:08]  Anticheat Nex-AC carregado!
+[19:24:08]  Anticheat versao: 1.9.54
+[19:24:08]  Autor: Nexius (PT-BR by NicK_)
+[19:24:08] --------------------------------------
+
+[19:24:08] #rank ovos criado com sucesso
+[19:24:09]  _           _      ______       _           _       
+[19:24:09] | |         (_)     | ___ |     | |         | |      
+[19:24:09] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[19:24:09] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[19:24:09] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[19:24:09] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[19:24:09]                 ______                               
+[19:24:09]                |______|                              
+[19:24:09] Number of vehicle models: 0
+[19:29:02]  -------------------------------------------
+[19:29:02]            SampVoice unloading...           
+[19:29:02]  -------------------------------------------
+[19:29:02] [dbg:raknet:free] : module releasing...
+[19:29:02] [dbg:raknet:free] : module released
+[19:29:02] [sv:dbg:network:free] : module releasing...
+[19:29:02] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:32:57] filterscripts = ""  (string)
+[19:32:57] 
+[19:32:57] Server Plugins
+[19:32:57] --------------
+[19:32:57]  Loading plugin: crashdetect
+[19:32:57]   CrashDetect v4.15.1 is OK.
+[19:32:57]   Loaded.
+[19:32:57]  Loading plugin: sscanf
+[19:32:57] 
+[19:32:57]  ===============================
+[19:32:57] 
+[19:32:57]       sscanf plugin loaded.     
+[19:32:57] 
+[19:32:57]          Version: 2.13.2
+[19:32:57] 
+[19:32:57]    (c) 2022 Alex "Y_Less" Cole  
+[19:32:57] 
+[19:32:57]  ===============================
+[19:32:57] 
+[19:32:57]   Loaded.
+[19:32:57]  Loading plugin: streamer
+[19:32:57] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:32:57]   Loaded.
+[19:32:57]  Loading plugin: sampvoice
+[19:32:57] [sv:dbg:network:init] : module initializing...
+[19:32:57] [dbg:raknet:init] : module initializing...
+[19:32:57] [dbg:raknet:init] : module initialized
+[19:32:57] [sv:dbg:network:init] : module initialized
+[19:32:57] [sv:dbg:main:Load] : creating 4 work threads...
+[19:32:57]  -------------------------------------------    
+[19:32:57]    ___                __   __    _              
+[19:32:57]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[19:32:57]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[19:32:57]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[19:32:57]                   |_|                           
+[19:32:57]  -------------------------------------------    
+[19:32:57]            SampVoice by MOR loaded              
+[19:32:57]  -------------------------------------------    
+[19:32:57]   Loaded.
+[19:32:57]  Loading plugin: timerfix
+[19:32:57]   >> TimerFix v1.5 successfully loaded.
+[19:32:57]   Loaded.
+[19:32:57]  Loading plugin: YSF
+[19:32:57] 
+[19:32:57]  ===============================
+[19:32:57]         YSF - kurta999's version 2.0 loaded
+[19:32:57]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[19:32:57]     Server version: 0.3.7 R2-1 or R2-2
+[19:32:57]     Operating System: Windows
+[19:32:57]     Built on: May 24 2020 at 14:42:02
+[19:32:57]  ===============================
+[19:32:57] 
+[19:32:57]   Loaded.
+[19:32:57]  Loading plugin: pawnregex
+[19:32:57] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[19:32:57]   Loaded.
+[19:32:57]  Loading plugin: discord-connector
+[19:32:58]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[19:32:58]   Loaded.
+[19:32:58]  Loading plugin: bscrashfix
+[19:32:58] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[19:32:58] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[19:32:58]   Loaded.
+[19:32:58]  Loaded 9 plugins.
+
+[19:32:58] 
+[19:32:58] Ban list
+[19:32:58] --------
+[19:32:58]  Loaded: samp.ban
+[19:32:59] 
+[19:32:59] 
+[19:32:59] Filterscripts
+[19:32:59] ---------------
+[19:32:59]   Loaded 0 filterscripts.
+
+[19:32:59] [sv:dbg:main:AmxLoad] : net game pointer (value:02359C08) received
+[19:32:59] [sv:dbg:network:bind] : voice server running on port 60569
+[19:32:59]  
+[19:32:59] --------------------------------------
+[19:32:59]  Anticheat Nex-AC carregado!
+[19:32:59]  Anticheat versao: 1.9.54
+[19:32:59]  Autor: Nexius (PT-BR by NicK_)
+[19:32:59] --------------------------------------
+
+[19:32:59] #rank ovos criado com sucesso
+[19:33:00]  _           _      ______       _           _       
+[19:33:00] | |         (_)     | ___ |     | |         | |      
+[19:33:00] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[19:33:00] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[19:33:00] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[19:33:00] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[19:33:00]                 ______                               
+[19:33:00]                |______|                              
+[19:33:00] Number of vehicle models: 0
+[19:39:38]  -------------------------------------------
+[19:39:38]            SampVoice unloading...           
+[19:39:38]  -------------------------------------------
+[19:39:38] [dbg:raknet:free] : module releasing...
+[19:39:38] [dbg:raknet:free] : module released
+[19:39:38] [sv:dbg:network:free] : module releasing...
+[19:39:38] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:39:40] filterscripts = ""  (string)
+[19:39:40] 
+[19:39:40] Server Plugins
+[19:39:40] --------------
+[19:39:40]  Loading plugin: crashdetect
+[19:39:40]   CrashDetect v4.15.1 is OK.
+[19:39:40]   Loaded.
+[19:39:40]  Loading plugin: sscanf
+[19:39:40] 
+[19:39:40]  ===============================
+[19:39:40] 
+[19:39:40]       sscanf plugin loaded.     
+[19:39:40] 
+[19:39:40]          Version: 2.13.2
+[19:39:40] 
+[19:39:40]    (c) 2022 Alex "Y_Less" Cole  
+[19:39:40] 
+[19:39:40]  ===============================
+[19:39:40] 
+[19:39:40]   Loaded.
+[19:39:40]  Loading plugin: streamer
+[19:39:40] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:39:40]   Loaded.
+[19:39:40]  Loading plugin: sampvoice
+[19:39:40] [sv:dbg:network:init] : module initializing...
+[19:39:40] [dbg:raknet:init] : module initializing...
+[19:39:40] [dbg:raknet:init] : module initialized
+[19:39:40] [sv:dbg:network:init] : module initialized
+[19:39:40] [sv:dbg:main:Load] : creating 4 work threads...
+[19:39:40]  -------------------------------------------    
+[19:39:40]    ___                __   __    _              
+[19:39:40]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[19:39:40]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[19:39:40]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[19:39:40]                   |_|                           
+[19:39:40]  -------------------------------------------    
+[19:39:40]            SampVoice by MOR loaded              
+[19:39:40]  -------------------------------------------    
+[19:39:40]   Loaded.
+[19:39:40]  Loading plugin: timerfix
+[19:39:40]   >> TimerFix v1.5 successfully loaded.
+[19:39:40]   Loaded.
+[19:39:40]  Loading plugin: YSF
+[19:39:40] 
+[19:39:40]  ===============================
+[19:39:40]         YSF - kurta999's version 2.0 loaded
+[19:39:40]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[19:39:40]     Server version: 0.3.7 R2-1 or R2-2
+[19:39:40]     Operating System: Windows
+[19:39:40]     Built on: May 24 2020 at 14:42:02
+[19:39:40]  ===============================
+[19:39:40] 
+[19:39:40]   Loaded.
+[19:39:40]  Loading plugin: pawnregex
+[19:39:40] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[19:39:40]   Loaded.
+[19:39:40]  Loading plugin: discord-connector
+[19:39:41]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[19:39:41]   Loaded.
+[19:39:41]  Loading plugin: bscrashfix
+[19:39:41] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[19:39:41] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[19:39:41]   Loaded.
+[19:39:41]  Loaded 9 plugins.
+
+[19:39:41] 
+[19:39:41] Ban list
+[19:39:41] --------
+[19:39:41]  Loaded: samp.ban
+[19:39:41] 
+[19:39:41] 
+[19:39:41] Filterscripts
+[19:39:41] ---------------
+[19:39:41]   Loaded 0 filterscripts.
+
+[19:39:42] [sv:dbg:main:AmxLoad] : net game pointer (value:022E9C08) received
+[19:39:42] [sv:dbg:network:bind] : voice server running on port 55751
+[19:39:42]  
+[19:39:42] --------------------------------------
+[19:39:42]  Anticheat Nex-AC carregado!
+[19:39:42]  Anticheat versao: 1.9.54
+[19:39:42]  Autor: Nexius (PT-BR by NicK_)
+[19:39:42] --------------------------------------
+
+[19:39:42] #rank ovos criado com sucesso
+[19:39:43]  _           _      ______       _           _       
+[19:39:43] | |         (_)     | ___ |     | |         | |      
+[19:39:43] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[19:39:43] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[19:39:43] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[19:39:43] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[19:39:43]                 ______                               
+[19:39:43]                |______|                              
+[19:39:43] Number of vehicle models: 0
+[19:42:52]  -------------------------------------------
+[19:42:52]            SampVoice unloading...           
+[19:42:52]  -------------------------------------------
+[19:42:52] [dbg:raknet:free] : module releasing...
+[19:42:52] [dbg:raknet:free] : module released
+[19:42:52] [sv:dbg:network:free] : module releasing...
+[19:42:52] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:42:53] filterscripts = ""  (string)
+[19:42:53] 
+[19:42:53] Server Plugins
+[19:42:53] --------------
+[19:42:53]  Loading plugin: crashdetect
+[19:42:53]   CrashDetect v4.15.1 is OK.
+[19:42:53]   Loaded.
+[19:42:53]  Loading plugin: sscanf
+[19:42:53] 
+[19:42:53]  ===============================
+[19:42:53] 
+[19:42:53]       sscanf plugin loaded.     
+[19:42:53] 
+[19:42:53]          Version: 2.13.2
+[19:42:53] 
+[19:42:53]    (c) 2022 Alex "Y_Less" Cole  
+[19:42:53] 
+[19:42:53]  ===============================
+[19:42:53] 
+[19:42:53]   Loaded.
+[19:42:53]  Loading plugin: streamer
+[19:42:53] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:42:53]   Loaded.
+[19:42:53]  Loading plugin: sampvoice
+[19:42:53] [sv:dbg:network:init] : module initializing...
+[19:42:53] [dbg:raknet:init] : module initializing...
+[19:42:53] [dbg:raknet:init] : module initialized
+[19:42:53] [sv:dbg:network:init] : module initialized
+[19:42:53] [sv:dbg:main:Load] : creating 4 work threads...
+[19:42:53]  -------------------------------------------    
+[19:42:53]    ___                __   __    _              
+[19:42:53]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[19:42:53]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[19:42:53]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[19:42:53]                   |_|                           
+[19:42:53]  -------------------------------------------    
+[19:42:53]            SampVoice by MOR loaded              
+[19:42:53]  -------------------------------------------    
+[19:42:53]   Loaded.
+[19:42:53]  Loading plugin: timerfix
+[19:42:53]   >> TimerFix v1.5 successfully loaded.
+[19:42:53]   Loaded.
+[19:42:53]  Loading plugin: YSF
+[19:42:53] 
+[19:42:53]  ===============================
+[19:42:53]         YSF - kurta999's version 2.0 loaded
+[19:42:53]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[19:42:53]     Server version: 0.3.7 R2-1 or R2-2
+[19:42:53]     Operating System: Windows
+[19:42:53]     Built on: May 24 2020 at 14:42:02
+[19:42:53]  ===============================
+[19:42:53] 
+[19:42:54]   Loaded.
+[19:42:54]  Loading plugin: pawnregex
+[19:42:54] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[19:42:54]   Loaded.
+[19:42:54]  Loading plugin: discord-connector
+[19:42:55]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[19:42:55]   Loaded.
+[19:42:55]  Loading plugin: bscrashfix
+[19:42:55] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[19:42:55] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[19:42:55]   Loaded.
+[19:42:55]  Loaded 9 plugins.
+
+[19:42:55] 
+[19:42:55] Ban list
+[19:42:55] --------
+[19:42:55]  Loaded: samp.ban
+[19:42:55] 
+[19:42:55] 
+[19:42:55] Filterscripts
+[19:42:55] ---------------
+[19:42:55]   Loaded 0 filterscripts.
+
+[19:42:56] [sv:dbg:main:AmxLoad] : net game pointer (value:00819C08) received
+[19:42:56] [sv:dbg:network:bind] : voice server running on port 53839
+[19:42:56]  
+[19:42:56] --------------------------------------
+[19:42:56]  Anticheat Nex-AC carregado!
+[19:42:56]  Anticheat versao: 1.9.54
+[19:42:56]  Autor: Nexius (PT-BR by NicK_)
+[19:42:56] --------------------------------------
+
+[19:42:56] #rank ovos criado com sucesso
+[19:42:57]  _           _      ______       _           _       
+[19:42:57] | |         (_)     | ___ |     | |         | |      
+[19:42:57] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[19:42:57] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[19:42:57] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[19:42:57] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[19:42:57]                 ______                               
+[19:42:57]                |______|                              
+[19:42:57] Number of vehicle models: 0
+[19:54:02]  -------------------------------------------
+[19:54:02]            SampVoice unloading...           
+[19:54:02]  -------------------------------------------
+[19:54:02] [dbg:raknet:free] : module releasing...
+[19:54:02] [dbg:raknet:free] : module released
+[19:54:02] [sv:dbg:network:free] : module releasing...
+[19:54:02] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:54:03] filterscripts = ""  (string)
+[19:54:03] 
+[19:54:03] Server Plugins
+[19:54:03] --------------
+[19:54:03]  Loading plugin: crashdetect
+[19:54:03]   CrashDetect v4.15.1 is OK.
+[19:54:03]   Loaded.
+[19:54:03]  Loading plugin: sscanf
+[19:54:03] 
+[19:54:03]  ===============================
+[19:54:03] 
+[19:54:03]       sscanf plugin loaded.     
+[19:54:03] 
+[19:54:03]          Version: 2.13.2
+[19:54:03] 
+[19:54:03]    (c) 2022 Alex "Y_Less" Cole  
+[19:54:03] 
+[19:54:03]  ===============================
+[19:54:03] 
+[19:54:03]   Loaded.
+[19:54:03]  Loading plugin: streamer
+[19:54:03] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:54:03]   Loaded.
+[19:54:03]  Loading plugin: sampvoice
+[19:54:03] [sv:dbg:network:init] : module initializing...
+[19:54:03] [dbg:raknet:init] : module initializing...
+[19:54:03] [dbg:raknet:init] : module initialized
+[19:54:03] [sv:dbg:network:init] : module initialized
+[19:54:03] [sv:dbg:main:Load] : creating 4 work threads...
+[19:54:03]  -------------------------------------------    
+[19:54:03]    ___                __   __    _              
+[19:54:03]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[19:54:03]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[19:54:03]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[19:54:03]                   |_|                           
+[19:54:03]  -------------------------------------------    
+[19:54:03]            SampVoice by MOR loaded              
+[19:54:03]  -------------------------------------------    
+[19:54:03]   Loaded.
+[19:54:03]  Loading plugin: timerfix
+[19:54:03]   >> TimerFix v1.5 successfully loaded.
+[19:54:03]   Loaded.
+[19:54:03]  Loading plugin: YSF
+[19:54:04] 
+[19:54:04]  ===============================
+[19:54:04]         YSF - kurta999's version 2.0 loaded
+[19:54:04]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[19:54:04]     Server version: 0.3.7 R2-1 or R2-2
+[19:54:04]     Operating System: Windows
+[19:54:04]     Built on: May 24 2020 at 14:42:02
+[19:54:04]  ===============================
+[19:54:04] 
+[19:54:04]   Loaded.
+[19:54:04]  Loading plugin: pawnregex
+[19:54:04] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[19:54:04]   Loaded.
+[19:54:04]  Loading plugin: discord-connector
+[19:54:05]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[19:54:05]   Loaded.
+[19:54:05]  Loading plugin: bscrashfix
+[19:54:05] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[19:54:05] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[19:54:05]   Loaded.
+[19:54:05]  Loaded 9 plugins.
+
+[19:54:05] 
+[19:54:05] Ban list
+[19:54:05] --------
+[19:54:05]  Loaded: samp.ban
+[19:54:05] 
+[19:54:05] 
+[19:54:05] Filterscripts
+[19:54:05] ---------------
+[19:54:05]   Loaded 0 filterscripts.
+
+[19:54:06] [sv:dbg:main:AmxLoad] : net game pointer (value:021C9C08) received
+[19:54:06] [sv:dbg:network:bind] : voice server running on port 57884
+[19:54:06]  
+[19:54:06] --------------------------------------
+[19:54:06]  Anticheat Nex-AC carregado!
+[19:54:06]  Anticheat versao: 1.9.54
+[19:54:06]  Autor: Nexius (PT-BR by NicK_)
+[19:54:06] --------------------------------------
+
+[19:54:06] #rank ovos criado com sucesso
+[19:54:07]  _           _      ______       _           _       
+[19:54:07] | |         (_)     | ___ |     | |         | |      
+[19:54:07] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[19:54:07] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[19:54:07] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[19:54:07] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[19:54:07]                 ______                               
+[19:54:07]                |______|                              
+[19:54:07] Number of vehicle models: 0
+[20:00:54]  -------------------------------------------
+[20:00:54]            SampVoice unloading...           
+[20:00:54]  -------------------------------------------
+[20:00:54] [dbg:raknet:free] : module releasing...
+[20:00:54] [dbg:raknet:free] : module released
+[20:00:54] [sv:dbg:network:free] : module releasing...
+[20:00:54] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:00:57] filterscripts = ""  (string)
+[20:00:57] 
+[20:00:57] Server Plugins
+[20:00:57] --------------
+[20:00:57]  Loading plugin: crashdetect
+[20:00:57]   CrashDetect v4.15.1 is OK.
+[20:00:57]   Loaded.
+[20:00:57]  Loading plugin: sscanf
+[20:00:57] 
+[20:00:57]  ===============================
+[20:00:57] 
+[20:00:57]       sscanf plugin loaded.     
+[20:00:57] 
+[20:00:57]          Version: 2.13.2
+[20:00:57] 
+[20:00:57]    (c) 2022 Alex "Y_Less" Cole  
+[20:00:57] 
+[20:00:57]  ===============================
+[20:00:57] 
+[20:00:57]   Loaded.
+[20:00:57]  Loading plugin: streamer
+[20:00:57] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[20:00:57]   Loaded.
+[20:00:57]  Loading plugin: sampvoice
+[20:00:57] [sv:dbg:network:init] : module initializing...
+[20:00:57] [dbg:raknet:init] : module initializing...
+[20:00:57] [dbg:raknet:init] : module initialized
+[20:00:57] [sv:dbg:network:init] : module initialized
+[20:00:57] [sv:dbg:main:Load] : creating 4 work threads...
+[20:00:57]  -------------------------------------------    
+[20:00:57]    ___                __   __    _              
+[20:00:57]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[20:00:57]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[20:00:57]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[20:00:57]                   |_|                           
+[20:00:57]  -------------------------------------------    
+[20:00:57]            SampVoice by MOR loaded              
+[20:00:57]  -------------------------------------------    
+[20:00:57]   Loaded.
+[20:00:57]  Loading plugin: timerfix
+[20:00:57]   >> TimerFix v1.5 successfully loaded.
+[20:00:57]   Loaded.
+[20:00:57]  Loading plugin: YSF
+[20:00:57] 
+[20:00:57]  ===============================
+[20:00:57]         YSF - kurta999's version 2.0 loaded
+[20:00:57]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[20:00:57]     Server version: 0.3.7 R2-1 or R2-2
+[20:00:57]     Operating System: Windows
+[20:00:57]     Built on: May 24 2020 at 14:42:02
+[20:00:57]  ===============================
+[20:00:57] 
+[20:00:57]   Loaded.
+[20:00:57]  Loading plugin: pawnregex
+[20:00:57] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[20:00:57]   Loaded.
+[20:00:57]  Loading plugin: discord-connector
+[20:00:59]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[20:00:59]   Loaded.
+[20:00:59]  Loading plugin: bscrashfix
+[20:00:59] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[20:00:59] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[20:00:59]   Loaded.
+[20:00:59]  Loaded 9 plugins.
+
+[20:00:59] 
+[20:00:59] Ban list
+[20:00:59] --------
+[20:00:59]  Loaded: samp.ban
+[20:00:59] 
+[20:00:59] 
+[20:00:59] Filterscripts
+[20:00:59] ---------------
+[20:01:00]   Loaded 0 filterscripts.
+
+[20:01:00] [sv:dbg:main:AmxLoad] : net game pointer (value:02469C08) received
+[20:01:00] [sv:dbg:network:bind] : voice server running on port 54854
+[20:01:00]  
+[20:01:00] --------------------------------------
+[20:01:00]  Anticheat Nex-AC carregado!
+[20:01:00]  Anticheat versao: 1.9.54
+[20:01:00]  Autor: Nexius (PT-BR by NicK_)
+[20:01:00] --------------------------------------
+
+[20:01:00] #rank ovos criado com sucesso
+[20:01:01]  _           _      ______       _           _       
+[20:01:01] | |         (_)     | ___ |     | |         | |      
+[20:01:01] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[20:01:01] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[20:01:01] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[20:01:01] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[20:01:01]                 ______                               
+[20:01:01]                |______|                              
+[20:01:01] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:05:26] filterscripts = ""  (string)
+[20:05:26] 
+[20:05:26] Server Plugins
+[20:05:26] --------------
+[20:05:26]  Loading plugin: crashdetect
+[20:05:26]   CrashDetect v4.15.1 is OK.
+[20:05:26]   Loaded.
+[20:05:26]  Loading plugin: sscanf
+[20:05:26] 
+[20:05:26]  ===============================
+[20:05:26] 
+[20:05:26]       sscanf plugin loaded.     
+[20:05:26] 
+[20:05:26]          Version: 2.13.2
+[20:05:26] 
+[20:05:26]    (c) 2022 Alex "Y_Less" Cole  
+[20:05:26] 
+[20:05:26]  ===============================
+[20:05:26] 
+[20:05:26]   Loaded.
+[20:05:26]  Loading plugin: streamer
+[20:05:26] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[20:05:26]   Loaded.
+[20:05:26]  Loading plugin: sampvoice
+[20:05:26] [sv:dbg:network:init] : module initializing...
+[20:05:26] [dbg:raknet:init] : module initializing...
+[20:05:26] [dbg:raknet:init] : module initialized
+[20:05:26] [sv:dbg:network:init] : module initialized
+[20:05:26] [sv:dbg:main:Load] : creating 4 work threads...
+[20:05:26]  -------------------------------------------    
+[20:05:26]    ___                __   __    _              
+[20:05:26]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[20:05:26]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[20:05:26]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[20:05:26]                   |_|                           
+[20:05:26]  -------------------------------------------    
+[20:05:26]            SampVoice by MOR loaded              
+[20:05:26]  -------------------------------------------    
+[20:05:26]   Loaded.
+[20:05:26]  Loading plugin: timerfix
+[20:05:26]   >> TimerFix v1.5 successfully loaded.
+[20:05:26]   Loaded.
+[20:05:26]  Loading plugin: YSF
+[20:05:26] 
+[20:05:26]  ===============================
+[20:05:26]         YSF - kurta999's version 2.0 loaded
+[20:05:26]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[20:05:26]     Server version: 0.3.7 R2-1 or R2-2
+[20:05:26]     Operating System: Windows
+[20:05:26]     Built on: May 24 2020 at 14:42:02
+[20:05:26]  ===============================
+[20:05:26] 
+[20:05:26]   Loaded.
+[20:05:26]  Loading plugin: pawnregex
+[20:05:26] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[20:05:26]   Loaded.
+[20:05:26]  Loading plugin: discord-connector
+[20:05:27]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[20:05:27]   Loaded.
+[20:05:27]  Loading plugin: bscrashfix
+[20:05:27] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[20:05:27] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[20:05:27]   Loaded.
+[20:05:27]  Loaded 9 plugins.
+
+[20:05:28] 
+[20:05:28] Ban list
+[20:05:28] --------
+[20:05:28]  Loaded: samp.ban
+[20:05:28] 
+[20:05:28] 
+[20:05:28] Filterscripts
+[20:05:28] ---------------
+[20:05:28]   Loaded 0 filterscripts.
+
+[20:05:29] [sv:dbg:main:AmxLoad] : net game pointer (value:02309C08) received
+[20:05:29] [sv:dbg:network:bind] : voice server running on port 63332
+[20:05:29]  
+[20:05:29] --------------------------------------
+[20:05:29]  Anticheat Nex-AC carregado!
+[20:05:29]  Anticheat versao: 1.9.54
+[20:05:29]  Autor: Nexius (PT-BR by NicK_)
+[20:05:29] --------------------------------------
+
+[20:05:30] #rank ovos criado com sucesso
+[20:05:32]  _           _      ______       _           _       
+[20:05:32] | |         (_)     | ___ |     | |         | |      
+[20:05:32] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[20:05:32] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[20:05:32] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[20:05:32] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[20:05:32]                 ______                               
+[20:05:32]                |______|                              
+[20:05:32] Number of vehicle models: 0
+[20:06:16] [connection] 127.0.0.1:57924 requests connection cookie.
+[20:06:17] [connection] 127.0.0.1:57924 requests connection cookie.
+[20:06:18] [connection] incoming connection: 127.0.0.1:57924 id: 0
+[20:06:19] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[20:06:19] [sv:dbg:network:connect] : player (0) assigned key (97215193)
+[20:06:19] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[20:06:19] ================ OnPlayerConnect ================
+[20:06:19] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[20:06:19] =================================================
+[20:06:19] [sv:dbg:network:receive] : player (0) identified (port:56511)
+[20:06:22] ================ OnPlayerRequestClass ================
+[20:06:22] PlayerID [Fantasma_] Serial [94E4C4C5C9DAECD590FE9DCA8C0598C0D4D4DDAA]
+[20:06:22] ======================================================
+[20:06:22] Player [Fantasma_] esta usando um APK/PC diferente
+[20:09:42]  -------------------------------------------
+[20:09:42]            SampVoice unloading...           
+[20:09:42]  -------------------------------------------
+[20:09:42] [dbg:raknet:free] : module releasing...
+[20:09:42] [sv:dbg:network:connect] : disconnecting player (0) ...
+[20:09:42] [dbg:raknet:free] : module released
+[20:09:42] [sv:dbg:network:free] : module releasing...
+[20:09:42] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:09:42] filterscripts = ""  (string)
+[20:09:43] 
+[20:09:43] Server Plugins
+[20:09:43] --------------
+[20:09:43]  Loading plugin: crashdetect
+[20:09:43]   CrashDetect v4.15.1 is OK.
+[20:09:43]   Loaded.
+[20:09:43]  Loading plugin: sscanf
+[20:09:43] 
+[20:09:43]  ===============================
+[20:09:43] 
+[20:09:43]       sscanf plugin loaded.     
+[20:09:43] 
+[20:09:43]          Version: 2.13.2
+[20:09:43] 
+[20:09:43]    (c) 2022 Alex "Y_Less" Cole  
+[20:09:43] 
+[20:09:43]  ===============================
+[20:09:43] 
+[20:09:43]   Loaded.
+[20:09:43]  Loading plugin: streamer
+[20:09:43] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[20:09:43]   Loaded.
+[20:09:43]  Loading plugin: sampvoice
+[20:09:43] [sv:dbg:network:init] : module initializing...
+[20:09:43] [dbg:raknet:init] : module initializing...
+[20:09:43] [dbg:raknet:init] : module initialized
+[20:09:43] [sv:dbg:network:init] : module initialized
+[20:09:43] [sv:dbg:main:Load] : creating 4 work threads...
+[20:09:43]  -------------------------------------------    
+[20:09:43]    ___                __   __    _              
+[20:09:43]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[20:09:43]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[20:09:43]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[20:09:43]                   |_|                           
+[20:09:43]  -------------------------------------------    
+[20:09:43]            SampVoice by MOR loaded              
+[20:09:43]  -------------------------------------------    
+[20:09:43]   Loaded.
+[20:09:43]  Loading plugin: timerfix
+[20:09:43]   >> TimerFix v1.5 successfully loaded.
+[20:09:43]   Loaded.
+[20:09:43]  Loading plugin: YSF
+[20:09:43] 
+[20:09:43]  ===============================
+[20:09:43]         YSF - kurta999's version 2.0 loaded
+[20:09:43]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[20:09:43]     Server version: 0.3.7 R2-1 or R2-2
+[20:09:43]     Operating System: Windows
+[20:09:43]     Built on: May 24 2020 at 14:42:02
+[20:09:43]  ===============================
+[20:09:43] 
+[20:09:43]   Loaded.
+[20:09:43]  Loading plugin: pawnregex
+[20:09:43] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[20:09:43]   Loaded.
+[20:09:43]  Loading plugin: discord-connector
+[20:09:44]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[20:09:44]   Loaded.
+[20:09:44]  Loading plugin: bscrashfix
+[20:09:44] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[20:09:44] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[20:09:44]   Loaded.
+[20:09:44]  Loaded 9 plugins.
+
+[20:09:44] 
+[20:09:44] Ban list
+[20:09:45] --------
+[20:09:45]  Loaded: samp.ban
+[20:09:45] 
+[20:09:45] 
+[20:09:45] Filterscripts
+[20:09:45] ---------------
+[20:09:45]   Loaded 0 filterscripts.
+
+[20:09:45] [sv:dbg:main:AmxLoad] : net game pointer (value:02399C08) received
+[20:09:45] [sv:dbg:network:bind] : voice server running on port 57297
+[20:09:45]  
+[20:09:45] --------------------------------------
+[20:09:45]  Anticheat Nex-AC carregado!
+[20:09:45]  Anticheat versao: 1.9.54
+[20:09:45]  Autor: Nexius (PT-BR by NicK_)
+[20:09:45] --------------------------------------
+
+[20:09:45] #rank ovos criado com sucesso
+[20:09:47]  _           _      ______       _           _       
+[20:09:47] | |         (_)     | ___ |     | |         | |      
+[20:09:47] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[20:09:47] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[20:09:47] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[20:09:47] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[20:09:47]                 ______                               
+[20:09:47]                |______|                              
+[20:09:47] Number of vehicle models: 0
+[20:09:55] [connection] 127.0.0.1:49621 requests connection cookie.
+[20:09:56] [connection] 127.0.0.1:49621 requests connection cookie.
+[20:09:57] [connection] incoming connection: 127.0.0.1:49621 id: 0
+[20:10:03] [connection] 127.0.0.1:63333 requests connection cookie.
+[20:10:04] [connection] 127.0.0.1:63333 requests connection cookie.
+[20:10:05] [connection] incoming connection: 127.0.0.1:63333 id: 0
+[20:10:05] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[20:10:05] [sv:dbg:network:connect] : player (0) assigned key (969cc6f3)
+[20:10:05] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[20:10:05] ================ OnPlayerConnect ================
+[20:10:05] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[20:10:05] =================================================
+[20:10:06] [sv:dbg:network:receive] : player (0) identified (port:56511)
+[20:10:08] ================ OnPlayerRequestClass ================
+[20:10:08] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[20:10:08] ======================================================
+[20:10:08] Player [Fantasma_] esta usando um APK/PC diferente
+[20:13:02]  -------------------------------------------
+[20:13:02]            SampVoice unloading...           
+[20:13:02]  -------------------------------------------
+[20:13:02] [dbg:raknet:free] : module releasing...
+[20:13:02] [sv:dbg:network:connect] : disconnecting player (0) ...
+[20:13:02] [dbg:raknet:free] : module released
+[20:13:02] [sv:dbg:network:free] : module releasing...
+[20:13:02] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:13:03] filterscripts = ""  (string)
+[20:13:03] 
+[20:13:03] Server Plugins
+[20:13:03] --------------
+[20:13:03]  Loading plugin: crashdetect
+[20:13:03]   CrashDetect v4.15.1 is OK.
+[20:13:03]   Loaded.
+[20:13:03]  Loading plugin: sscanf
+[20:13:03] 
+[20:13:03]  ===============================
+[20:13:03] 
+[20:13:03]       sscanf plugin loaded.     
+[20:13:03] 
+[20:13:03]          Version: 2.13.2
+[20:13:03] 
+[20:13:03]    (c) 2022 Alex "Y_Less" Cole  
+[20:13:03] 
+[20:13:03]  ===============================
+[20:13:03] 
+[20:13:03]   Loaded.
+[20:13:03]  Loading plugin: streamer
+[20:13:03] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[20:13:03]   Loaded.
+[20:13:03]  Loading plugin: sampvoice
+[20:13:03] [sv:dbg:network:init] : module initializing...
+[20:13:03] [dbg:raknet:init] : module initializing...
+[20:13:03] [dbg:raknet:init] : module initialized
+[20:13:03] [sv:dbg:network:init] : module initialized
+[20:13:03] [sv:dbg:main:Load] : creating 4 work threads...
+[20:13:03]  -------------------------------------------    
+[20:13:03]    ___                __   __    _              
+[20:13:03]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[20:13:03]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[20:13:03]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[20:13:03]                   |_|                           
+[20:13:03]  -------------------------------------------    
+[20:13:03]            SampVoice by MOR loaded              
+[20:13:03]  -------------------------------------------    
+[20:13:03]   Loaded.
+[20:13:03]  Loading plugin: timerfix
+[20:13:03]   >> TimerFix v1.5 successfully loaded.
+[20:13:03]   Loaded.
+[20:13:03]  Loading plugin: YSF
+[20:13:03] 
+[20:13:03]  ===============================
+[20:13:03]         YSF - kurta999's version 2.0 loaded
+[20:13:03]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[20:13:03]     Server version: 0.3.7 R2-1 or R2-2
+[20:13:03]     Operating System: Windows
+[20:13:03]     Built on: May 24 2020 at 14:42:02
+[20:13:03]  ===============================
+[20:13:03] 
+[20:13:03]   Loaded.
+[20:13:03]  Loading plugin: pawnregex
+[20:13:03] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[20:13:03]   Loaded.
+[20:13:03]  Loading plugin: discord-connector
+[20:13:05]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[20:13:05]   Loaded.
+[20:13:05]  Loading plugin: bscrashfix
+[20:13:05] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[20:13:05] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[20:13:05]   Loaded.
+[20:13:05]  Loaded 9 plugins.
+
+[20:13:05] 
+[20:13:05] Ban list
+[20:13:05] --------
+[20:13:05]  Loaded: samp.ban
+[20:13:05] 
+[20:13:05] 
+[20:13:05] Filterscripts
+[20:13:05] ---------------
+[20:13:05]   Loaded 0 filterscripts.
+
+[20:13:06] [sv:dbg:main:AmxLoad] : net game pointer (value:024C9C08) received
+[20:13:06] [sv:dbg:network:bind] : voice server running on port 59215
+[20:13:06]  
+[20:13:06] --------------------------------------
+[20:13:06]  Anticheat Nex-AC carregado!
+[20:13:06]  Anticheat versao: 1.9.54
+[20:13:06]  Autor: Nexius (PT-BR by NicK_)
+[20:13:06] --------------------------------------
+
+[20:13:06] #rank ovos criado com sucesso
+[20:13:07] [connection] 127.0.0.1:57410 requests connection cookie.
+[20:13:07]  _           _      ______       _           _       
+[20:13:07] | |         (_)     | ___ |     | |         | |      
+[20:13:07] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[20:13:07] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[20:13:07] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[20:13:07] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[20:13:07]                 ______                               
+[20:13:07]                |______|                              
+[20:13:07] Number of vehicle models: 0
+[20:13:08] [connection] 127.0.0.1:57410 requests connection cookie.
+[20:13:09] [connection] incoming connection: 127.0.0.1:57410 id: 0
+[20:13:09] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[20:13:09] [sv:dbg:network:connect] : player (0) assigned key (c3a25b8f)
+[20:13:09] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[20:13:09] ================ OnPlayerConnect ================
+[20:13:09] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[20:13:09] =================================================
+[20:13:10] [sv:dbg:network:receive] : player (0) identified (port:56511)
+[20:13:12] ================ OnPlayerRequestClass ================
+[20:13:12] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[20:13:12] ======================================================
+[20:13:12] Player [Fantasma_] esta usando um APK/PC diferente
+[20:14:36]  -------------------------------------------
+[20:14:36]            SampVoice unloading...           
+[20:14:36]  -------------------------------------------
+[20:14:36] [dbg:raknet:free] : module releasing...
+[20:14:36] [sv:dbg:network:connect] : disconnecting player (0) ...
+[20:14:36] [dbg:raknet:free] : module released
+[20:14:36] [sv:dbg:network:free] : module releasing...
+[20:14:36] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:14:36] filterscripts = ""  (string)
+[20:14:36] 
+[20:14:36] Server Plugins
+[20:14:36] --------------
+[20:14:36]  Loading plugin: crashdetect
+[20:14:36]   CrashDetect v4.15.1 is OK.
+[20:14:36]   Loaded.
+[20:14:36]  Loading plugin: sscanf
+[20:14:36] 
+[20:14:36]  ===============================
+[20:14:36] 
+[20:14:36]       sscanf plugin loaded.     
+[20:14:36] 
+[20:14:36]          Version: 2.13.2
+[20:14:36] 
+[20:14:36]    (c) 2022 Alex "Y_Less" Cole  
+[20:14:36] 
+[20:14:36]  ===============================
+[20:14:36] 
+[20:14:36]   Loaded.
+[20:14:36]  Loading plugin: streamer
+[20:14:36] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[20:14:36]   Loaded.
+[20:14:36]  Loading plugin: sampvoice
+[20:14:36] [sv:dbg:network:init] : module initializing...
+[20:14:36] [dbg:raknet:init] : module initializing...
+[20:14:36] [dbg:raknet:init] : module initialized
+[20:14:36] [sv:dbg:network:init] : module initialized
+[20:14:36] [sv:dbg:main:Load] : creating 4 work threads...
+[20:14:36]  -------------------------------------------    
+[20:14:36]    ___                __   __    _              
+[20:14:36]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[20:14:36]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[20:14:36]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[20:14:36]                   |_|                           
+[20:14:36]  -------------------------------------------    
+[20:14:37]            SampVoice by MOR loaded              
+[20:14:37]  -------------------------------------------    
+[20:14:37]   Loaded.
+[20:14:37]  Loading plugin: timerfix
+[20:14:37]   >> TimerFix v1.5 successfully loaded.
+[20:14:37]   Loaded.
+[20:14:37]  Loading plugin: YSF
+[20:14:37] 
+[20:14:37]  ===============================
+[20:14:37]         YSF - kurta999's version 2.0 loaded
+[20:14:37]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[20:14:37]     Server version: 0.3.7 R2-1 or R2-2
+[20:14:37]     Operating System: Windows
+[20:14:37]     Built on: May 24 2020 at 14:42:02
+[20:14:37]  ===============================
+[20:14:37] 
+[20:14:37]   Loaded.
+[20:14:37]  Loading plugin: pawnregex
+[20:14:37] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[20:14:37]   Loaded.
+[20:14:37]  Loading plugin: discord-connector
+[20:14:38]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[20:14:38]   Loaded.
+[20:14:38]  Loading plugin: bscrashfix
+[20:14:38] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[20:14:38] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[20:14:38]   Loaded.
+[20:14:38]  Loaded 9 plugins.
+
+[20:14:38] 
+[20:14:38] Ban list
+[20:14:38] --------
+[20:14:39]  Loaded: samp.ban
+[20:14:39] 
+[20:14:39] 
+[20:14:39] Filterscripts
+[20:14:39] ---------------
+[20:14:39]   Loaded 0 filterscripts.
+
+[20:14:39] [sv:dbg:main:AmxLoad] : net game pointer (value:024E9C08) received
+[20:14:39] [sv:dbg:network:bind] : voice server running on port 63979
+[20:14:39]  
+[20:14:39] --------------------------------------
+[20:14:39]  Anticheat Nex-AC carregado!
+[20:14:39]  Anticheat versao: 1.9.54
+[20:14:39]  Autor: Nexius (PT-BR by NicK_)
+[20:14:39] --------------------------------------
+
+[20:14:39] #rank ovos criado com sucesso
+[20:14:40] [connection] 127.0.0.1:63986 requests connection cookie.
+[20:14:41]  _           _      ______       _           _       
+[20:14:41] | |         (_)     | ___ |     | |         | |      
+[20:14:41] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[20:14:41] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[20:14:41] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[20:14:41] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[20:14:41]                 ______                               
+[20:14:41]                |______|                              
+[20:14:41] Number of vehicle models: 0
+[20:14:41] [connection] 127.0.0.1:63986 requests connection cookie.
+[20:14:42] [connection] incoming connection: 127.0.0.1:63986 id: 0
+[20:14:42] [sv:dbg:network:connect] : connecting player (0) with address (127.0.0.1) ...
+[20:14:42] [sv:dbg:network:connect] : player (0) assigned key (b0c6fd36)
+[20:14:42] [join] Fantasma_ has joined the server (0:127.0.0.1)
+[20:14:42] ================ OnPlayerConnect ================
+[20:14:42] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[20:14:42] =================================================
+[20:14:43] [sv:dbg:network:receive] : player (0) identified (port:56511)
+[20:14:45] ================ OnPlayerRequestClass ================
+[20:14:45] PlayerID [Fantasma_] Serial [88EFAE4D5E08A580F8A4C08909AD5F458FD55848]
+[20:14:45] ======================================================
+[20:14:45] Player [Fantasma_] esta usando um APK/PC diferente
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:39:41] filterscripts = ""  (string)
+[22:39:41] 
+[22:39:41] Server Plugins
+[22:39:41] --------------
+[22:39:41]  Loading plugin: crashdetect
+[22:39:41]   CrashDetect v4.15.1 is OK.
+[22:39:41]   Loaded.
+[22:39:41]  Loading plugin: sscanf
+[22:39:41] 
+[22:39:41]  ===============================
+[22:39:41] 
+[22:39:41]       sscanf plugin loaded.     
+[22:39:41] 
+[22:39:41]          Version: 2.13.2
+[22:39:41] 
+[22:39:41]    (c) 2022 Alex "Y_Less" Cole  
+[22:39:41] 
+[22:39:41]  ===============================
+[22:39:41] 
+[22:39:41]   Loaded.
+[22:39:41]  Loading plugin: streamer
+[22:39:42] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:39:42]   Loaded.
+[22:39:42]  Loading plugin: sampvoice
+[22:39:42] [sv:dbg:network:init] : module initializing...
+[22:39:42] [dbg:raknet:init] : module initializing...
+[22:39:42] [dbg:raknet:init] : module initialized
+[22:39:42] [sv:dbg:network:init] : module initialized
+[22:39:42] [sv:dbg:main:Load] : creating 4 work threads...
+[22:39:42]  -------------------------------------------    
+[22:39:42]    ___                __   __    _              
+[22:39:42]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:39:42]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:39:42]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:39:42]                   |_|                           
+[22:39:42]  -------------------------------------------    
+[22:39:42]            SampVoice by MOR loaded              
+[22:39:42]  -------------------------------------------    
+[22:39:42]   Loaded.
+[22:39:42]  Loading plugin: timerfix
+[22:39:42]   >> TimerFix v1.5 successfully loaded.
+[22:39:42]   Loaded.
+[22:39:42]  Loading plugin: YSF
+[22:39:42] 
+[22:39:42]  ===============================
+[22:39:42]         YSF - kurta999's version 2.0 loaded
+[22:39:42]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:39:42]     Server version: 0.3.7 R2-1 or R2-2
+[22:39:42]     Operating System: Windows
+[22:39:42]     Built on: May 24 2020 at 14:42:02
+[22:39:42]  ===============================
+[22:39:42] 
+[22:39:42]   Loaded.
+[22:39:42]  Loading plugin: pawnregex
+[22:39:42] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[22:39:42]   Loaded.
+[22:39:42]  Loading plugin: discord-connector
+[22:39:44]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[22:39:44]   Loaded.
+[22:39:44]  Loading plugin: bscrashfix
+[22:39:45] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[22:39:45] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[22:39:45]   Loaded.
+[22:39:45]  Loaded 9 plugins.
+
+[22:39:45] 
+[22:39:45] Ban list
+[22:39:45] --------
+[22:39:45]  Loaded: samp.ban
+[22:39:45] 
+[22:39:45] 
+[22:39:45] Filterscripts
+[22:39:45] ---------------
+[22:39:45]   Loaded 0 filterscripts.
+
+[22:39:45] [sv:dbg:main:AmxLoad] : net game pointer (value:00689C08) received
+[22:39:45] [sv:dbg:network:bind] : voice server running on port 61224
+[22:39:45]  
+[22:39:45] --------------------------------------
+[22:39:45]  Anticheat Nex-AC carregado!
+[22:39:45]  Anticheat versao: 1.9.54
+[22:39:45]  Autor: Nexius (PT-BR by NicK_)
+[22:39:45] --------------------------------------
+
+[22:39:45] #rank ovos criado com sucesso
+[22:40:02]  _           _      ______       _           _       
+[22:40:02] | |         (_)     | ___ |     | |         | |      
+[22:40:02] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[22:40:02] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[22:40:02] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[22:40:02] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[22:40:02]                 ______                               
+[22:40:02]                |______|                              
+[22:40:02] Number of vehicle models: 0
+[22:51:27]  -------------------------------------------
+[22:51:27]            SampVoice unloading...           
+[22:51:27]  -------------------------------------------
+[22:51:27] [dbg:raknet:free] : module releasing...
+[22:51:27] [dbg:raknet:free] : module released
+[22:51:27] [sv:dbg:network:free] : module releasing...
+[22:51:27] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:51:36] filterscripts = ""  (string)
+[22:51:36] 
+[22:51:36] Server Plugins
+[22:51:36] --------------
+[22:51:36]  Loading plugin: crashdetect
+[22:51:36]   CrashDetect v4.15.1 is OK.
+[22:51:36]   Loaded.
+[22:51:36]  Loading plugin: sscanf
+[22:51:36] 
+[22:51:36]  ===============================
+[22:51:36] 
+[22:51:36]       sscanf plugin loaded.     
+[22:51:36] 
+[22:51:36]          Version: 2.13.2
+[22:51:36] 
+[22:51:36]    (c) 2022 Alex "Y_Less" Cole  
+[22:51:36] 
+[22:51:36]  ===============================
+[22:51:36] 
+[22:51:36]   Loaded.
+[22:51:36]  Loading plugin: streamer
+[22:51:36] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:51:36]   Loaded.
+[22:51:36]  Loading plugin: sampvoice
+[22:51:36] [sv:dbg:network:init] : module initializing...
+[22:51:36] [dbg:raknet:init] : module initializing...
+[22:51:36] [dbg:raknet:init] : module initialized
+[22:51:36] [sv:dbg:network:init] : module initialized
+[22:51:36] [sv:dbg:main:Load] : creating 4 work threads...
+[22:51:36]  -------------------------------------------    
+[22:51:36]    ___                __   __    _              
+[22:51:36]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:51:36]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:51:36]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:51:36]                   |_|                           
+[22:51:36]  -------------------------------------------    
+[22:51:36]            SampVoice by MOR loaded              
+[22:51:36]  -------------------------------------------    
+[22:51:36]   Loaded.
+[22:51:36]  Loading plugin: timerfix
+[22:51:36]   >> TimerFix v1.5 successfully loaded.
+[22:51:36]   Loaded.
+[22:51:36]  Loading plugin: YSF
+[22:51:37] 
+[22:51:37]  ===============================
+[22:51:37]         YSF - kurta999's version 2.0 loaded
+[22:51:37]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:51:37]     Server version: 0.3.7 R2-1 or R2-2
+[22:51:37]     Operating System: Windows
+[22:51:37]     Built on: May 24 2020 at 14:42:02
+[22:51:37]  ===============================
+[22:51:37] 
+[22:51:37]   Loaded.
+[22:51:37]  Loading plugin: pawnregex
+[22:51:37] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[22:51:37]   Loaded.
+[22:51:37]  Loading plugin: discord-connector
+[22:51:39]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[22:51:39]   Loaded.
+[22:51:39]  Loading plugin: bscrashfix
+[22:51:39] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[22:51:39] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[22:51:39]   Loaded.
+[22:51:39]  Loaded 9 plugins.
+
+[22:51:39] 
+[22:51:39] Ban list
+[22:51:39] --------
+[22:51:39]  Loaded: samp.ban
+[22:51:39] 
+[22:51:39] 
+[22:51:39] Filterscripts
+[22:51:39] ---------------
+[22:51:39]   Loaded 0 filterscripts.
+
+[22:51:39] [sv:dbg:main:AmxLoad] : net game pointer (value:02179C08) received
+[22:51:39] [sv:dbg:network:bind] : voice server running on port 52038
+[22:51:39]  
+[22:51:39] --------------------------------------
+[22:51:39]  Anticheat Nex-AC carregado!
+[22:51:39]  Anticheat versao: 1.9.54
+[22:51:39]  Autor: Nexius (PT-BR by NicK_)
+[22:51:39] --------------------------------------
+
+[22:51:39] #rank ovos criado com sucesso
+[22:51:49]  _           _      ______       _           _       
+[22:51:49] | |         (_)     | ___ |     | |         | |      
+[22:51:49] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[22:51:49] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[22:51:49] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[22:51:49] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[22:51:49]                 ______                               
+[22:51:49]                |______|                              
+[22:51:49] Number of vehicle models: 0
+[23:26:20]  -------------------------------------------
+[23:26:20]            SampVoice unloading...           
+[23:26:20]  -------------------------------------------
+[23:26:20] [dbg:raknet:free] : module releasing...
+[23:26:20] [dbg:raknet:free] : module released
+[23:26:20] [sv:dbg:network:free] : module releasing...
+[23:26:20] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:19:08] filterscripts = ""  (string)
+[12:19:08] 
+[12:19:08] Server Plugins
+[12:19:08] --------------
+[12:19:08]  Loading plugin: crashdetect
+[12:19:08]   CrashDetect v4.15.1 is OK.
+[12:19:08]   Loaded.
+[12:19:08]  Loading plugin: sscanf
+[12:19:08] 
+[12:19:08]  ===============================
+[12:19:08] 
+[12:19:08]       sscanf plugin loaded.     
+[12:19:08] 
+[12:19:08]          Version: 2.13.2
+[12:19:08] 
+[12:19:08]    (c) 2022 Alex "Y_Less" Cole  
+[12:19:08] 
+[12:19:08]  ===============================
+[12:19:08] 
+[12:19:08]   Loaded.
+[12:19:08]  Loading plugin: streamer
+[12:19:09] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[12:19:09]   Loaded.
+[12:19:09]  Loading plugin: sampvoice
+[12:19:09] [sv:dbg:network:init] : module initializing...
+[12:19:09] [dbg:raknet:init] : module initializing...
+[12:19:09] [dbg:raknet:init] : module initialized
+[12:19:09] [sv:dbg:network:init] : module initialized
+[12:19:09] [sv:dbg:main:Load] : creating 4 work threads...
+[12:19:09]  -------------------------------------------    
+[12:19:09]    ___                __   __    _              
+[12:19:09]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[12:19:09]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[12:19:09]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[12:19:09]                   |_|                           
+[12:19:09]  -------------------------------------------    
+[12:19:09]            SampVoice by MOR loaded              
+[12:19:09]  -------------------------------------------    
+[12:19:09]   Loaded.
+[12:19:09]  Loading plugin: timerfix
+[12:19:09]   >> TimerFix v1.5 successfully loaded.
+[12:19:09]   Loaded.
+[12:19:09]  Loading plugin: YSF
+[12:19:09] 
+[12:19:09]  ===============================
+[12:19:09]         YSF - kurta999's version 2.0 loaded
+[12:19:09]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[12:19:09]     Server version: 0.3.7 R2-1 or R2-2
+[12:19:09]     Operating System: Windows
+[12:19:09]     Built on: May 24 2020 at 14:42:02
+[12:19:09]  ===============================
+[12:19:09] 
+[12:19:09]   Loaded.
+[12:19:09]  Loading plugin: pawnregex
+[12:19:10] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[12:19:10]   Loaded.
+[12:19:10]  Loading plugin: discord-connector
+[12:19:12]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[12:19:12]   Loaded.
+[12:19:12]  Loading plugin: bscrashfix
+[12:19:12] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[12:19:12] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[12:19:12]   Loaded.
+[12:19:12]  Loaded 9 plugins.
+
+[12:19:12] 
+[12:19:12] Ban list
+[12:19:12] --------
+[12:19:12]  Loaded: samp.ban
+[12:19:12] 
+[12:19:13] 
+[12:19:13] Filterscripts
+[12:19:13] ---------------
+[12:19:13]   Loaded 0 filterscripts.
+
+[12:19:13] [sv:dbg:main:AmxLoad] : net game pointer (value:02439C08) received
+[12:19:13] [sv:dbg:network:bind] : voice server running on port 60117
+[12:19:13]  
+[12:19:13] --------------------------------------
+[12:19:13]  Anticheat Nex-AC carregado!
+[12:19:13]  Anticheat versao: 1.9.54
+[12:19:13]  Autor: Nexius (PT-BR by NicK_)
+[12:19:13] --------------------------------------
+
+[12:19:14] #rank ovos criado com sucesso
+[12:19:27]  _           _      ______       _           _       
+[12:19:27] | |         (_)     | ___ |     | |         | |      
+[12:19:27] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[12:19:27] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[12:19:27] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[12:19:27] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[12:19:27]                 ______                               
+[12:19:27]                |______|                              
+[12:19:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:44:19] filterscripts = ""  (string)
+[22:44:19] 
+[22:44:19] Server Plugins
+[22:44:19] --------------
+[22:44:19]  Loading plugin: crashdetect
+[22:44:19]   CrashDetect v4.15.1 is OK.
+[22:44:19]   Loaded.
+[22:44:19]  Loading plugin: sscanf
+[22:44:19] 
+[22:44:19]  ===============================
+[22:44:19] 
+[22:44:19]       sscanf plugin loaded.     
+[22:44:19] 
+[22:44:19]          Version: 2.13.2
+[22:44:19] 
+[22:44:19]    (c) 2022 Alex "Y_Less" Cole  
+[22:44:19] 
+[22:44:19]  ===============================
+[22:44:19] 
+[22:44:19]   Loaded.
+[22:44:19]  Loading plugin: streamer
+[22:44:19] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[22:44:19]   Loaded.
+[22:44:19]  Loading plugin: sampvoice
+[22:44:19] [sv:dbg:network:init] : module initializing...
+[22:44:19] [dbg:raknet:init] : module initializing...
+[22:44:19] [dbg:raknet:init] : module initialized
+[22:44:19] [sv:dbg:network:init] : module initialized
+[22:44:19] [sv:dbg:main:Load] : creating 4 work threads...
+[22:44:19]  -------------------------------------------    
+[22:44:19]    ___                __   __    _              
+[22:44:19]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:44:19]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:44:19]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:44:19]                   |_|                           
+[22:44:19]  -------------------------------------------    
+[22:44:19]            SampVoice by MOR loaded              
+[22:44:19]  -------------------------------------------    
+[22:44:19]   Loaded.
+[22:44:19]  Loading plugin: timerfix
+[22:44:19]   >> TimerFix v1.5 successfully loaded.
+[22:44:19]   Loaded.
+[22:44:19]  Loading plugin: YSF
+[22:44:20] 
+[22:44:20]  ===============================
+[22:44:20]         YSF - kurta999's version 2.0 loaded
+[22:44:20]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:44:20]     Server version: 0.3.7 R2-1 or R2-2
+[22:44:20]     Operating System: Windows
+[22:44:20]     Built on: May 24 2020 at 14:42:02
+[22:44:20]  ===============================
+[22:44:20] 
+[22:44:20]   Loaded.
+[22:44:20]  Loading plugin: pawnregex
+[22:44:20] Pawn.Regex plugin v1.1.1 by urShadow loaded
+[22:44:20]   Loaded.
+[22:44:20]  Loading plugin: discord-connector
+[22:44:21]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[22:44:21]   Loaded.
+[22:44:21]  Loading plugin: bscrashfix
+[22:44:21] 	BitStream Crash Fix plugin by iAmir/IS4 has been successfully loaded
+[22:44:21] 	==== https://github.com/AmyrAhmady/samp-bscrashfix
+[22:44:21]   Loaded.
+[22:44:21]  Loaded 9 plugins.
+
+[22:44:22] 
+[22:44:22] Ban list
+[22:44:22] --------
+[22:44:22]  Loaded: samp.ban
+[22:44:22] 
+[22:44:22] 
+[22:44:22] Filterscripts
+[22:44:22] ---------------
+[22:44:22]   Loaded 0 filterscripts.
+
+[22:44:22] [sv:dbg:main:AmxLoad] : net game pointer (value:02339C08) received
+[22:44:22] [sv:dbg:network:bind] : voice server running on port 63073
+[22:44:22]  
+[22:44:22] --------------------------------------
+[22:44:22]  Anticheat Nex-AC carregado!
+[22:44:22]  Anticheat versao: 1.9.54
+[22:44:22]  Autor: Nexius (PT-BR by NicK_)
+[22:44:22] --------------------------------------
+
+[22:44:22] #rank ovos criado com sucesso
+[22:44:33]  _           _      ______       _           _       
+[22:44:33] | |         (_)     | ___ |     | |         | |      
+[22:44:33] | |    _   _ _ ___  | |_/ |_____| | __ _  __| |_____ 
+[22:44:33] | |   | | | | | __| | ___ |  _  | |/ _` |/ _` |  _  |
+[22:44:33] | |___| |_| | |__ | | |_/ | (_) | | (_| | (_| | (_) |
+[22:44:33] |_____|_____|_|___| |_____|_____|_|_____|___,_|_____|
+[22:44:33]                 ______                               
+[22:44:33]                |______|                              
+[22:44:33] Number of vehicle models: 0
+[23:39:53]  -------------------------------------------
+[23:39:53]            SampVoice unloading...           
+[23:39:53]  -------------------------------------------
+[23:39:53] [dbg:raknet:free] : module releasing...
+[23:39:53] [dbg:raknet:free] : module released
+[23:39:53] [sv:dbg:network:free] : module releasing...
+[23:39:53] [sv:dbg:network:free] : module released
